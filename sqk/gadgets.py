@@ -68,7 +68,7 @@ def tighten(P: np.ndarray, w: int, h: int, f0: float, trust: float = 0.1, iters:
     return Q, F
 
 
-def extract(P: np.ndarray, source: str = "", do_tighten: bool = True) -> list[Gadget]:
+def extract(P: np.ndarray, source: str = "", do_tighten: bool = True, maxdim: int = 31) -> list[Gadget]:
     """Cut a fault line packing into gadgets. Returns [] when P does not have that structure."""
     from .geometry import normalize
 
@@ -132,6 +132,8 @@ def extract(P: np.ndarray, source: str = "", do_tighten: bool = True) -> list[Ga
     C = corners(P)
     for x0, y0, x1, y1 in boxes:
         w, h = x1 - x0, y1 - y0
+        if w > maxdim or h > maxdim:
+            continue  # cannot fit any container we score (K <= 31)
         # members: core squares whose centre lies in the box, plus lattice squares in its cells
         cx, cy = P[:, 0], P[:, 1]
         inbox = (cx > x0) & (cx < x1 + f) & (cy > y0) & (cy < y1 + f)
