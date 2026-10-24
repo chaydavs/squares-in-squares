@@ -1,0 +1,3 @@
+strings: 22.3499485521  (106s)
+pandas round trip: 22.3499485521  (215s)
+worst case total over n in range: 22.3499485521; puzzles failing a mode: 0; report data/submission_v1_validation.csv

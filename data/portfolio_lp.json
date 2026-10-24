@@ -1,0 +1,4002 @@
+{
+"1": {
+"side": 1.0,
+"source": "grid"
+},
+"2": {
+"side": 2.0,
+"source": "grid"
+},
+"3": {
+"side": 2.0,
+"source": "grid"
+},
+"4": {
+"side": 2.0,
+"source": "grid"
+},
+"5": {
+"side": 2.7071067811865475,
+"source": "couzo:n5.cert"
+},
+"6": {
+"side": 3.0,
+"source": "grid"
+},
+"7": {
+"side": 3.0,
+"source": "grid"
+},
+"8": {
+"side": 3.0,
+"source": "grid"
+},
+"9": {
+"side": 3.0,
+"source": "grid"
+},
+"10": {
+"side": 3.7071067811865475,
+"source": "couzo:n10.cert"
+},
+"11": {
+"side": 3.8770835900228144,
+"source": "couzo:n11.cert"
+},
+"12": {
+"side": 4.0,
+"source": "grid"
+},
+"13": {
+"side": 4.0,
+"source": "grid"
+},
+"14": {
+"side": 4.0,
+"source": "grid"
+},
+"15": {
+"side": 4.0,
+"source": "grid"
+},
+"16": {
+"side": 4.0,
+"source": "grid"
+},
+"17": {
+"side": 4.675530093604551,
+"source": "couzo:n17.cert"
+},
+"18": {
+"side": 4.822875655532295,
+"source": "couzo:n18.cert"
+},
+"19": {
+"side": 4.885618083164127,
+"source": "couzo:n19.cert"
+},
+"20": {
+"side": 5.0,
+"source": "grid"
+},
+"21": {
+"side": 5.0,
+"source": "grid"
+},
+"22": {
+"side": 5.0,
+"source": "grid"
+},
+"23": {
+"side": 5.0,
+"source": "grid"
+},
+"24": {
+"side": 5.0,
+"source": "grid"
+},
+"25": {
+"side": 5.0,
+"source": "grid"
+},
+"26": {
+"side": 5.621320343559643,
+"source": "couzo:n26.cert"
+},
+"27": {
+"side": 5.707106781186548,
+"source": "couzo:n27.cert"
+},
+"28": {
+"side": 5.824444616674059,
+"source": "couzo:n28.cert"
+},
+"29": {
+"side": 5.93383346267693,
+"source": "couzo:n29.cert"
+},
+"30": {
+"side": 6.0,
+"source": "grid"
+},
+"31": {
+"side": 6.0,
+"source": "grid"
+},
+"32": {
+"side": 6.0,
+"source": "grid"
+},
+"33": {
+"side": 6.0,
+"source": "grid"
+},
+"34": {
+"side": 6.0,
+"source": "grid"
+},
+"35": {
+"side": 6.0,
+"source": "grid"
+},
+"36": {
+"side": 6.0,
+"source": "grid"
+},
+"37": {
+"side": 6.59861960924436,
+"source": "couzo:n37.cert"
+},
+"38": {
+"side": 6.707106781186548,
+"source": "couzo:n27.cert+L1"
+},
+"39": {
+"side": 6.810722083068649,
+"source": "couzo:n39.cert"
+},
+"40": {
+"side": 6.82842712474619,
+"source": "couzo:n40.cert"
+},
+"41": {
+"side": 6.926693094468803,
+"source": "couzo:n41.cert"
+},
+"42": {
+"side": 7.0,
+"source": "grid"
+},
+"43": {
+"side": 7.0,
+"source": "grid"
+},
+"44": {
+"side": 7.0,
+"source": "grid"
+},
+"45": {
+"side": 7.0,
+"source": "grid"
+},
+"46": {
+"side": 7.0,
+"source": "grid"
+},
+"47": {
+"side": 7.0,
+"source": "grid"
+},
+"48": {
+"side": 7.0,
+"source": "grid"
+},
+"49": {
+"side": 7.0,
+"source": "grid"
+},
+"50": {
+"side": 7.571428571428571,
+"source": "couzo:n50.cert"
+},
+"51": {
+"side": 7.6903559372884915,
+"source": "couzo:n51.cert"
+},
+"52": {
+"side": 7.707106781186548,
+"source": "couzo:n52.cert"
+},
+"53": {
+"side": 7.822875655532296,
+"source": "couzo:n53.cert"
+},
+"54": {
+"side": 7.84666719284349,
+"source": "couzo:n54.cert"
+},
+"55": {
+"side": 7.945771007503913,
+"source": "couzo:n55.cert"
+},
+"56": {
+"side": 8.0,
+"source": "grid"
+},
+"57": {
+"side": 8.0,
+"source": "grid"
+},
+"58": {
+"side": 8.0,
+"source": "grid"
+},
+"59": {
+"side": 8.0,
+"source": "grid"
+},
+"60": {
+"side": 8.0,
+"source": "grid"
+},
+"61": {
+"side": 8.0,
+"source": "grid"
+},
+"62": {
+"side": 8.0,
+"source": "grid"
+},
+"63": {
+"side": 8.0,
+"source": "grid"
+},
+"64": {
+"side": 8.0,
+"source": "grid"
+},
+"65": {
+"side": 8.535533905932738,
+"source": "couzo:n65.cert"
+},
+"66": {
+"side": 8.65685424949238,
+"source": "couzo:n66.cert"
+},
+"67": {
+"side": 8.707106781186548,
+"source": "couzo:n52.cert+L1"
+},
+"68": {
+"side": 8.798795237218284,
+"source": "couzo:n68.cert"
+},
+"69": {
+"side": 8.82719465572974,
+"source": "couzo:n69.cert"
+},
+"70": {
+"side": 8.880960371555581,
+"source": "couzo:n70.cert"
+},
+"71": {
+"side": 8.944071557570316,
+"source": "couzo:n71.cert"
+},
+"72": {
+"side": 9.0,
+"source": "grid"
+},
+"73": {
+"side": 9.0,
+"source": "grid"
+},
+"74": {
+"side": 9.0,
+"source": "grid"
+},
+"75": {
+"side": 9.0,
+"source": "grid"
+},
+"76": {
+"side": 9.0,
+"source": "grid"
+},
+"77": {
+"side": 9.0,
+"source": "grid"
+},
+"78": {
+"side": 9.0,
+"source": "grid"
+},
+"79": {
+"side": 9.0,
+"source": "grid"
+},
+"80": {
+"side": 9.0,
+"source": "grid"
+},
+"81": {
+"side": 9.0,
+"source": "grid"
+},
+"82": {
+"side": 9.535533905932738,
+"source": "couzo:n65.cert+L1"
+},
+"83": {
+"side": 9.634757648631082,
+"source": "couzo:n83.cert"
+},
+"84": {
+"side": 9.697934799014922,
+"source": "couzo:n84.cert"
+},
+"85": {
+"side": 9.742640687119286,
+"source": "couzo:n85.cert"
+},
+"86": {
+"side": 9.820535407496742,
+"source": "couzo:n86.cert"
+},
+"87": {
+"side": 9.838815269948261,
+"source": "couzo:n87.cert"
+},
+"88": {
+"side": 9.882451030481247,
+"source": "couzo:n88.cert"
+},
+"89": {
+"side": 9.949747468305832,
+"source": "couzo:n89.cert"
+},
+"90": {
+"side": 10.0,
+"source": "grid"
+},
+"91": {
+"side": 10.0,
+"source": "grid"
+},
+"92": {
+"side": 10.0,
+"source": "grid"
+},
+"93": {
+"side": 10.0,
+"source": "grid"
+},
+"94": {
+"side": 10.0,
+"source": "grid"
+},
+"95": {
+"side": 10.0,
+"source": "grid"
+},
+"96": {
+"side": 10.0,
+"source": "grid"
+},
+"97": {
+"side": 10.0,
+"source": "grid"
+},
+"98": {
+"side": 10.0,
+"source": "grid"
+},
+"99": {
+"side": 10.0,
+"source": "grid"
+},
+"100": {
+"side": 10.0,
+"source": "grid"
+},
+"101": {
+"side": 10.535533905932738,
+"source": "couzo:n101.cert"
+},
+"102": {
+"side": 10.605828696431578,
+"source": "couzo:n102.cert"
+},
+"103": {
+"side": 10.679232047361307,
+"source": "couzo:n103.cert"
+},
+"104": {
+"side": 10.707106781186548,
+"source": "couzo:n104.cert"
+},
+"105": {
+"side": 10.789303783742975,
+"source": "couzo:n105.cert"
+},
+"106": {
+"side": 10.822908044132847,
+"source": "couzo:n106.cert"
+},
+"107": {
+"side": 10.84666719284349,
+"source": "couzo:n107.cert"
+},
+"108": {
+"side": 10.904821012320356,
+"source": "couzo:n108.cert"
+},
+"109": {
+"side": 10.949747468305832,
+"source": "couzo:n109.cert"
+},
+"110": {
+"side": 10.996783396631592,
+"source": "couzo:n110.cert"
+},
+"111": {
+"side": 11.0,
+"source": "grid"
+},
+"112": {
+"side": 11.0,
+"source": "grid"
+},
+"113": {
+"side": 11.0,
+"source": "grid"
+},
+"114": {
+"side": 11.0,
+"source": "grid"
+},
+"115": {
+"side": 11.0,
+"source": "grid"
+},
+"116": {
+"side": 11.0,
+"source": "grid"
+},
+"117": {
+"side": 11.0,
+"source": "grid"
+},
+"118": {
+"side": 11.0,
+"source": "grid"
+},
+"119": {
+"side": 11.0,
+"source": "grid"
+},
+"120": {
+"side": 11.0,
+"source": "grid"
+},
+"121": {
+"side": 11.0,
+"source": "grid"
+},
+"122": {
+"side": 11.535533905932738,
+"source": "couzo:n101.cert+L1"
+},
+"123": {
+"side": 11.591378145497698,
+"source": "couzo:n123.cert"
+},
+"124": {
+"side": 11.65685424949238,
+"source": "couzo:n124.cert"
+},
+"125": {
+"side": 11.707106781186548,
+"source": "couzo:n104.cert+L1"
+},
+"126": {
+"side": 11.742640687119286,
+"source": "couzo:n126.cert"
+},
+"127": {
+"side": 11.81087878758918,
+"source": "couzo:n127.cert"
+},
+"128": {
+"side": 11.825091968213687,
+"source": "couzo:n128.cert"
+},
+"129": {
+"side": 11.870013850404465,
+"source": "couzo:n129.cert"
+},
+"130": {
+"side": 11.904483032515786,
+"source": "couzo:n130.cert"
+},
+"131": {
+"side": 11.94965958803586,
+"source": "couzo:n131.cert"
+},
+"132": {
+"side": 11.98568019884581,
+"source": "couzo:n132.cert"
+},
+"133": {
+"side": 12.0,
+"source": "grid"
+},
+"134": {
+"side": 12.0,
+"source": "grid"
+},
+"135": {
+"side": 12.0,
+"source": "grid"
+},
+"136": {
+"side": 12.0,
+"source": "grid"
+},
+"137": {
+"side": 12.0,
+"source": "grid"
+},
+"138": {
+"side": 12.0,
+"source": "grid"
+},
+"139": {
+"side": 12.0,
+"source": "grid"
+},
+"140": {
+"side": 12.0,
+"source": "grid"
+},
+"141": {
+"side": 12.0,
+"source": "grid"
+},
+"142": {
+"side": 12.0,
+"source": "grid"
+},
+"143": {
+"side": 12.0,
+"source": "grid"
+},
+"144": {
+"side": 12.0,
+"source": "grid"
+},
+"145": {
+"side": 12.535533905932738,
+"source": "couzo:n101.cert+L2"
+},
+"146": {
+"side": 12.58378219015186,
+"source": "couzo:n146.cert"
+},
+"147": {
+"side": 12.65685424949238,
+"source": "couzo:n124.cert+L1"
+},
+"148": {
+"side": 12.65685424949238,
+"source": "couzo:n148.cert"
+},
+"149": {
+"side": 12.707106781186548,
+"source": "couzo:n149.cert"
+},
+"150": {
+"side": 12.778174593052023,
+"source": "couzo:n150.cert"
+},
+"151": {
+"side": 12.822875655532295,
+"source": "couzo:n151.cert"
+},
+"152": {
+"side": 12.83071880097661,
+"source": "couzo:n152.cert"
+},
+"153": {
+"side": 12.870013850404465,
+"source": "couzo:n153.cert"
+},
+"154": {
+"side": 12.921100940761681,
+"source": "couzo:n154.cert"
+},
+"155": {
+"side": 12.952260944650565,
+"source": "couzo:n155.cert"
+},
+"156": {
+"side": 12.979165853834276,
+"source": "couzo:n156.cert"
+},
+"157": {
+"side": 13.0,
+"source": "grid"
+},
+"158": {
+"side": 13.0,
+"source": "grid"
+},
+"159": {
+"side": 13.0,
+"source": "grid"
+},
+"160": {
+"side": 13.0,
+"source": "grid"
+},
+"161": {
+"side": 13.0,
+"source": "grid"
+},
+"162": {
+"side": 13.0,
+"source": "grid"
+},
+"163": {
+"side": 13.0,
+"source": "grid"
+},
+"164": {
+"side": 13.0,
+"source": "grid"
+},
+"165": {
+"side": 13.0,
+"source": "grid"
+},
+"166": {
+"side": 13.0,
+"source": "grid"
+},
+"167": {
+"side": 13.0,
+"source": "grid"
+},
+"168": {
+"side": 13.0,
+"source": "grid"
+},
+"169": {
+"side": 13.0,
+"source": "grid"
+},
+"170": {
+"side": 13.535533905932738,
+"source": "couzo:n101.cert+L3"
+},
+"171": {
+"side": 13.571428571428571,
+"source": "couzo:n171.cert"
+},
+"172": {
+"side": 13.618988956899399,
+"source": "couzo:n172.cert"
+},
+"173": {
+"side": 13.65685424949238,
+"source": "couzo:n148.cert+L1"
+},
+"174": {
+"side": 13.707106781186548,
+"source": "couzo:n149.cert+L1"
+},
+"175": {
+"side": 13.764174317486596,
+"source": "couzo:n175.cert"
+},
+"176": {
+"side": 13.795872318436407,
+"source": "couzo:n176.cert"
+},
+"177": {
+"side": 13.822979734169449,
+"source": "couzo:n177.cert"
+},
+"178": {
+"side": 13.84666719284349,
+"source": "couzo:n178.cert"
+},
+"179": {
+"side": 13.883795490510899,
+"source": "couzo:n179.cert"
+},
+"180": {
+"side": 13.916993522477833,
+"source": "couzo:n180.cert"
+},
+"181": {
+"side": 13.950819531022924,
+"source": "couzo:n181.cert"
+},
+"182": {
+"side": 13.97409071312144,
+"source": "couzo:n182.cert"
+},
+"183": {
+"side": 13.999580178736252,
+"source": "couzo:n183.cert"
+},
+"184": {
+"side": 14.0,
+"source": "grid"
+},
+"185": {
+"side": 14.0,
+"source": "grid"
+},
+"186": {
+"side": 14.0,
+"source": "grid"
+},
+"187": {
+"side": 14.0,
+"source": "grid"
+},
+"188": {
+"side": 14.0,
+"source": "grid"
+},
+"189": {
+"side": 14.0,
+"source": "grid"
+},
+"190": {
+"side": 14.0,
+"source": "grid"
+},
+"191": {
+"side": 14.0,
+"source": "grid"
+},
+"192": {
+"side": 14.0,
+"source": "grid"
+},
+"193": {
+"side": 14.0,
+"source": "grid"
+},
+"194": {
+"side": 14.0,
+"source": "grid"
+},
+"195": {
+"side": 14.0,
+"source": "grid"
+},
+"196": {
+"side": 14.0,
+"source": "grid"
+},
+"197": {
+"side": 14.535533905932738,
+"source": "couzo:n101.cert+L4"
+},
+"198": {
+"side": 14.571428571428571,
+"source": "couzo:n171.cert+L1"
+},
+"199": {
+"side": 14.617572173592807,
+"source": "couzo:n199.cert"
+},
+"200": {
+"side": 14.65685424949238,
+"source": "couzo:n148.cert+L2"
+},
+"201": {
+"side": 14.707106781186548,
+"source": "couzo:n149.cert+L2"
+},
+"202": {
+"side": 14.727922061357855,
+"source": "couzo:n202.cert"
+},
+"203": {
+"side": 14.778174593052023,
+"source": "couzo:n203.cert"
+},
+"204": {
+"side": 14.80864283051695,
+"source": "couzo:n204.cert"
+},
+"205": {
+"side": 14.824451146124089,
+"source": "couzo:n205.cert"
+},
+"206": {
+"side": 14.860158663391903,
+"source": "couzo:n206.cert"
+},
+"207": {
+"side": 14.88096037155558,
+"source": "couzo:n207.cert"
+},
+"208": {
+"side": 14.924518772029355,
+"source": "couzo:n208.cert"
+},
+"209": {
+"side": 14.94622322644645,
+"source": "couzo:n209.cert"
+},
+"210": {
+"side": 14.973001116587625,
+"source": "couzo:n210.cert"
+},
+"211": {
+"side": 14.993549626299421,
+"source": "couzo:n211.cert"
+},
+"212": {
+"side": 15.0,
+"source": "grid"
+},
+"213": {
+"side": 15.0,
+"source": "grid"
+},
+"214": {
+"side": 15.0,
+"source": "grid"
+},
+"215": {
+"side": 15.0,
+"source": "grid"
+},
+"216": {
+"side": 15.0,
+"source": "grid"
+},
+"217": {
+"side": 15.0,
+"source": "grid"
+},
+"218": {
+"side": 15.0,
+"source": "grid"
+},
+"219": {
+"side": 15.0,
+"source": "grid"
+},
+"220": {
+"side": 15.0,
+"source": "grid"
+},
+"221": {
+"side": 15.0,
+"source": "grid"
+},
+"222": {
+"side": 15.0,
+"source": "grid"
+},
+"223": {
+"side": 15.0,
+"source": "grid"
+},
+"224": {
+"side": 15.0,
+"source": "grid"
+},
+"225": {
+"side": 15.0,
+"source": "grid"
+},
+"226": {
+"side": 15.535533905932738,
+"source": "couzo:n101.cert+L5"
+},
+"227": {
+"side": 15.56362565232515,
+"source": "couzo:n227.cert"
+},
+"228": {
+"side": 15.604601475729675,
+"source": "couzo:n228.cert"
+},
+"229": {
+"side": 15.650161513876432,
+"source": "couzo:n229.cert"
+},
+"230": {
+"side": 15.682926829268293,
+"source": "couzo:n230.cert"
+},
+"231": {
+"side": 15.707106781186548,
+"source": "couzo:n231.cert"
+},
+"232": {
+"side": 15.764174317486596,
+"source": "couzo:n232.cert"
+},
+"233": {
+"side": 15.778174593052023,
+"source": "couzo:n233.cert"
+},
+"234": {
+"side": 15.822875655532297,
+"source": "couzo:n234.cert"
+},
+"235": {
+"side": 15.826605633428567,
+"source": "couzo:n235.cert"
+},
+"236": {
+"side": 15.861934390607358,
+"source": "couzo:n236.cert"
+},
+"237": {
+"side": 15.902603638259597,
+"source": "couzo:n237.cert"
+},
+"238": {
+"side": 15.924106785321495,
+"source": "couzo:n238.cert"
+},
+"239": {
+"side": 15.9484433273005,
+"source": "couzo:n239.cert"
+},
+"240": {
+"side": 15.96968533753078,
+"source": "couzo:n240.cert"
+},
+"241": {
+"side": 15.98711709515024,
+"source": "couzo:n241.cert"
+},
+"242": {
+"side": 16.0,
+"source": "grid"
+},
+"243": {
+"side": 16.0,
+"source": "grid"
+},
+"244": {
+"side": 16.0,
+"source": "grid"
+},
+"245": {
+"side": 16.0,
+"source": "grid"
+},
+"246": {
+"side": 16.0,
+"source": "grid"
+},
+"247": {
+"side": 16.0,
+"source": "grid"
+},
+"248": {
+"side": 16.0,
+"source": "grid"
+},
+"249": {
+"side": 16.0,
+"source": "grid"
+},
+"250": {
+"side": 16.0,
+"source": "grid"
+},
+"251": {
+"side": 16.0,
+"source": "grid"
+},
+"252": {
+"side": 16.0,
+"source": "grid"
+},
+"253": {
+"side": 16.0,
+"source": "grid"
+},
+"254": {
+"side": 16.0,
+"source": "grid"
+},
+"255": {
+"side": 16.0,
+"source": "grid"
+},
+"256": {
+"side": 16.0,
+"source": "grid"
+},
+"257": {
+"side": 16.535533905932738,
+"source": "couzo:n101.cert+L6"
+},
+"258": {
+"side": 16.56344800213379,
+"source": "couzo:n258.cert"
+},
+"259": {
+"side": 16.5913781454977,
+"source": "couzo:n259.cert"
+},
+"260": {
+"side": 16.645753250519814,
+"source": "couzo:n260.cert"
+},
+"261": {
+"side": 16.67877987534291,
+"source": "couzo:n261.cert"
+},
+"262": {
+"side": 16.707106781186546,
+"source": "couzo:n231.cert+L1"
+},
+"263": {
+"side": 16.733166007899378,
+"source": "couzo:n263.cert"
+},
+"264": {
+"side": 16.774735132387832,
+"source": "couzo:n264.cert"
+},
+"265": {
+"side": 16.77817459305202,
+"source": "couzo:n265.cert"
+},
+"266": {
+"side": 16.823028750756475,
+"source": "couzo:n266.cert"
+},
+"267": {
+"side": 16.838815269948263,
+"source": "couzo:n267.cert"
+},
+"268": {
+"side": 16.874361715873825,
+"source": "couzo:n268.cert"
+},
+"269": {
+"side": 16.901513582189132,
+"source": "couzo:n269.cert"
+},
+"270": {
+"side": 16.92816225219675,
+"source": "couzo:n270.cert"
+},
+"271": {
+"side": 16.94894773371366,
+"source": "couzo:n271.cert"
+},
+"272": {
+"side": 16.96558647483767,
+"source": "couzo:n272.cert"
+},
+"273": {
+"side": 16.983925962650403,
+"source": "couzo:n273.cert"
+},
+"274": {
+"side": 17.0,
+"source": "grid"
+},
+"275": {
+"side": 17.0,
+"source": "grid"
+},
+"276": {
+"side": 17.0,
+"source": "grid"
+},
+"277": {
+"side": 17.0,
+"source": "grid"
+},
+"278": {
+"side": 17.0,
+"source": "grid"
+},
+"279": {
+"side": 17.0,
+"source": "grid"
+},
+"280": {
+"side": 17.0,
+"source": "grid"
+},
+"281": {
+"side": 17.0,
+"source": "grid"
+},
+"282": {
+"side": 17.0,
+"source": "grid"
+},
+"283": {
+"side": 17.0,
+"source": "grid"
+},
+"284": {
+"side": 17.0,
+"source": "grid"
+},
+"285": {
+"side": 17.0,
+"source": "grid"
+},
+"286": {
+"side": 17.0,
+"source": "grid"
+},
+"287": {
+"side": 17.0,
+"source": "grid"
+},
+"288": {
+"side": 17.0,
+"source": "grid"
+},
+"289": {
+"side": 17.0,
+"source": "grid"
+},
+"290": {
+"side": 17.535533905932738,
+"source": "couzo:n101.cert+L7"
+},
+"291": {
+"side": 17.535533905932738,
+"source": "couzo:n291.cert"
+},
+"292": {
+"side": 17.5913781454977,
+"source": "couzo:n259.cert+L1"
+},
+"293": {
+"side": 17.634146341463413,
+"source": "couzo:n293.cert"
+},
+"294": {
+"side": 17.65685424949238,
+"source": "couzo:n294.cert"
+},
+"295": {
+"side": 17.70423279073603,
+"source": "couzo:n295.cert"
+},
+"296": {
+"side": 17.707106781186546,
+"source": "couzo:n296.cert"
+},
+"297": {
+"side": 17.740417287543803,
+"source": "couzo:n297.cert"
+},
+"298": {
+"side": 17.77817459305202,
+"source": "couzo:n265.cert+L1"
+},
+"299": {
+"side": 17.822875655532297,
+"source": "couzo:n299.cert"
+},
+"300": {
+"side": 17.824123388478544,
+"source": "couzo:n300.cert"
+},
+"301": {
+"side": 17.84666719284349,
+"source": "couzo:n301.cert"
+},
+"302": {
+"side": 17.870013850404465,
+"source": "couzo:n302.cert"
+},
+"303": {
+"side": 17.9069782337989,
+"source": "couzo:n303.cert"
+},
+"304": {
+"side": 17.92689890233934,
+"source": "couzo:n304.cert+lp"
+},
+"305": {
+"side": 17.950466482137713,
+"source": "couzo:n305.cert"
+},
+"306": {
+"side": 17.963433717491426,
+"source": "couzo:n306.cert"
+},
+"307": {
+"side": 17.980862784054693,
+"source": "couzo:n307.cert"
+},
+"308": {
+"side": 17.997149121270912,
+"source": "couzo:n308.cert"
+},
+"309": {
+"side": 18.0,
+"source": "grid"
+},
+"310": {
+"side": 18.0,
+"source": "grid"
+},
+"311": {
+"side": 18.0,
+"source": "grid"
+},
+"312": {
+"side": 18.0,
+"source": "grid"
+},
+"313": {
+"side": 18.0,
+"source": "grid"
+},
+"314": {
+"side": 18.0,
+"source": "grid"
+},
+"315": {
+"side": 18.0,
+"source": "grid"
+},
+"316": {
+"side": 18.0,
+"source": "grid"
+},
+"317": {
+"side": 18.0,
+"source": "grid"
+},
+"318": {
+"side": 18.0,
+"source": "grid"
+},
+"319": {
+"side": 18.0,
+"source": "grid"
+},
+"320": {
+"side": 18.0,
+"source": "grid"
+},
+"321": {
+"side": 18.0,
+"source": "grid"
+},
+"322": {
+"side": 18.0,
+"source": "grid"
+},
+"323": {
+"side": 18.0,
+"source": "grid"
+},
+"324": {
+"side": 18.0,
+"source": "grid"
+},
+"325": {
+"side": 18.535533905932738,
+"source": "couzo:n101.cert+L8"
+},
+"326": {
+"side": 18.535533905932738,
+"source": "couzo:n291.cert+L1"
+},
+"327": {
+"side": 18.583782191871386,
+"source": "couzo:n327.cert+lp"
+},
+"328": {
+"side": 18.614368938494597,
+"source": "couzo:n328.cert"
+},
+"329": {
+"side": 18.65685424949238,
+"source": "couzo:n294.cert+L1"
+},
+"330": {
+"side": 18.69238815632756,
+"source": "couzo:n330.cert"
+},
+"331": {
+"side": 18.707106781186546,
+"source": "couzo:n296.cert+L1"
+},
+"332": {
+"side": 18.740417287543803,
+"source": "couzo:n297.cert+L1"
+},
+"333": {
+"side": 18.774735132398767,
+"source": "couzo:n333.cert"
+},
+"334": {
+"side": 18.79569373722021,
+"source": "couzo:n334.cert+lp"
+},
+"335": {
+"side": 18.822875655536127,
+"source": "couzo:n335.cert"
+},
+"336": {
+"side": 18.82557149986167,
+"source": "couzo:n336.cert"
+},
+"337": {
+"side": 18.858391767636228,
+"source": "couzo:n337.cert"
+},
+"338": {
+"side": 18.89365807530431,
+"source": "couzo:n338.cert+lp"
+},
+"339": {
+"side": 18.90735147116025,
+"source": "couzo:n339.cert"
+},
+"340": {
+"side": 18.92689890162347,
+"source": "couzo:n340.cert"
+},
+"341": {
+"side": 18.951882408719946,
+"source": "couzo:n341.cert"
+},
+"342": {
+"side": 18.96470672316728,
+"source": "couzo:n342.cert"
+},
+"343": {
+"side": 18.977171584757436,
+"source": "couzo:n343.cert"
+},
+"344": {
+"side": 18.992727809346267,
+"source": "couzo:n344.cert"
+},
+"345": {
+"side": 19.0,
+"source": "grid"
+},
+"346": {
+"side": 19.0,
+"source": "grid"
+},
+"347": {
+"side": 19.0,
+"source": "grid"
+},
+"348": {
+"side": 19.0,
+"source": "grid"
+},
+"349": {
+"side": 19.0,
+"source": "grid"
+},
+"350": {
+"side": 19.0,
+"source": "grid"
+},
+"351": {
+"side": 19.0,
+"source": "grid"
+},
+"352": {
+"side": 19.0,
+"source": "grid"
+},
+"353": {
+"side": 19.0,
+"source": "grid"
+},
+"354": {
+"side": 19.0,
+"source": "grid"
+},
+"355": {
+"side": 19.0,
+"source": "grid"
+},
+"356": {
+"side": 19.0,
+"source": "grid"
+},
+"357": {
+"side": 19.0,
+"source": "grid"
+},
+"358": {
+"side": 19.0,
+"source": "grid"
+},
+"359": {
+"side": 19.0,
+"source": "grid"
+},
+"360": {
+"side": 19.0,
+"source": "grid"
+},
+"361": {
+"side": 19.0,
+"source": "grid"
+},
+"362": {
+"side": 19.535533905932738,
+"source": "couzo:n101.cert+L9"
+},
+"363": {
+"side": 19.535533905932738,
+"source": "couzo:n291.cert+L2"
+},
+"364": {
+"side": 19.57142857325715,
+"source": "couzo:n364.cert+lp"
+},
+"365": {
+"side": 19.614368938494597,
+"source": "couzo:n328.cert+L1"
+},
+"366": {
+"side": 19.65685424949238,
+"source": "couzo:n294.cert+L2"
+},
+"367": {
+"side": 19.69238815544759,
+"source": "couzo:n367.cert"
+},
+"368": {
+"side": 19.69238815544759,
+"source": "couzo:n368.cert"
+},
+"369": {
+"side": 19.707106781186546,
+"source": "couzo:n369.cert"
+},
+"370": {
+"side": 19.764174317498217,
+"source": "couzo:n370.cert"
+},
+"371": {
+"side": 19.778174593057464,
+"source": "couzo:n371.cert"
+},
+"372": {
+"side": 19.806121984665666,
+"source": "couzo:n372.cert+lp"
+},
+"373": {
+"side": 19.823062082837804,
+"source": "couzo:n373.cert"
+},
+"374": {
+"side": 19.83235621703276,
+"source": "couzo:n374.cert"
+},
+"375": {
+"side": 19.870013850409524,
+"source": "couzo:n375.cert"
+},
+"376": {
+"side": 19.897064115548496,
+"source": "couzo:n376.cert+lp"
+},
+"377": {
+"side": 19.909958292932664,
+"source": "couzo:n377.cert+lp"
+},
+"378": {
+"side": 19.926898902420344,
+"source": "couzo:n378.cert+lp"
+},
+"379": {
+"side": 19.95088968148402,
+"source": "couzo:n379.cert"
+},
+"380": {
+"side": 19.961350023815985,
+"source": "couzo:n380.cert"
+},
+"381": {
+"side": 19.974739840478158,
+"source": "couzo:n381.cert"
+},
+"382": {
+"side": 19.987621153965513,
+"source": "couzo:n382.cert"
+},
+"383": {
+"side": 20.0,
+"source": "grid"
+},
+"384": {
+"side": 20.0,
+"source": "grid"
+},
+"385": {
+"side": 20.0,
+"source": "grid"
+},
+"386": {
+"side": 20.0,
+"source": "grid"
+},
+"387": {
+"side": 20.0,
+"source": "grid"
+},
+"388": {
+"side": 20.0,
+"source": "grid"
+},
+"389": {
+"side": 20.0,
+"source": "grid"
+},
+"390": {
+"side": 20.0,
+"source": "grid"
+},
+"391": {
+"side": 20.0,
+"source": "grid"
+},
+"392": {
+"side": 20.0,
+"source": "grid"
+},
+"393": {
+"side": 20.0,
+"source": "grid"
+},
+"394": {
+"side": 20.0,
+"source": "grid"
+},
+"395": {
+"side": 20.0,
+"source": "grid"
+},
+"396": {
+"side": 20.0,
+"source": "grid"
+},
+"397": {
+"side": 20.0,
+"source": "grid"
+},
+"398": {
+"side": 20.0,
+"source": "grid"
+},
+"399": {
+"side": 20.0,
+"source": "grid"
+},
+"400": {
+"side": 20.0,
+"source": "grid"
+},
+"401": {
+"side": 20.535533905932738,
+"source": "couzo:n101.cert+L10"
+},
+"402": {
+"side": 20.535533905932738,
+"source": "couzo:n291.cert+L3"
+},
+"403": {
+"side": 20.571428571433902,
+"source": "couzo:n403.cert"
+},
+"404": {
+"side": 20.591378147427733,
+"source": "couzo:n404.cert+lp"
+},
+"405": {
+"side": 20.645753252823575,
+"source": "couzo:n405.cert+lp"
+},
+"406": {
+"side": 20.65685425029841,
+"source": "couzo:n406.cert"
+},
+"407": {
+"side": 20.69238815544759,
+"source": "couzo:n368.cert+L1"
+},
+"408": {
+"side": 20.707106781186546,
+"source": "couzo:n369.cert+L1"
+},
+"409": {
+"side": 20.740417290047976,
+"source": "couzo:n409.cert+lp"
+},
+"410": {
+"side": 20.77473513239274,
+"source": "couzo:n410.cert"
+},
+"411": {
+"side": 20.795693774173486,
+"source": "couzo:n411.cert+lp"
+},
+"412": {
+"side": 20.822878556794116,
+"source": "couzo:n412.cert"
+},
+"413": {
+"side": 20.824764036620834,
+"source": "couzo:n413.cert+lp"
+},
+"414": {
+"side": 20.840687358089035,
+"source": "couzo:n414.cert"
+},
+"415": {
+"side": 20.872029849614087,
+"source": "couzo:n415.cert"
+},
+"416": {
+"side": 20.889947547440645,
+"source": "couzo:n416.cert+lp"
+},
+"417": {
+"side": 20.905465884468583,
+"source": "couzo:n417.cert+lp"
+},
+"418": {
+"side": 20.933868687569877,
+"source": "couzo:n418.cert+lp"
+},
+"419": {
+"side": 20.949984995010887,
+"source": "couzo:n419.cert+lp"
+},
+"420": {
+"side": 20.966577898707975,
+"source": "couzo:n420.cert"
+},
+"421": {
+"side": 20.976273997912237,
+"source": "couzo:n421.cert"
+},
+"422": {
+"side": 20.983570193584338,
+"source": "couzo:n422.cert"
+},
+"423": {
+"side": 21.0,
+"source": "grid"
+},
+"424": {
+"side": 21.0,
+"source": "grid"
+},
+"425": {
+"side": 21.0,
+"source": "grid"
+},
+"426": {
+"side": 21.0,
+"source": "grid"
+},
+"427": {
+"side": 21.0,
+"source": "grid"
+},
+"428": {
+"side": 21.0,
+"source": "grid"
+},
+"429": {
+"side": 21.0,
+"source": "grid"
+},
+"430": {
+"side": 21.0,
+"source": "grid"
+},
+"431": {
+"side": 21.0,
+"source": "grid"
+},
+"432": {
+"side": 21.0,
+"source": "grid"
+},
+"433": {
+"side": 21.0,
+"source": "grid"
+},
+"434": {
+"side": 21.0,
+"source": "grid"
+},
+"435": {
+"side": 21.0,
+"source": "grid"
+},
+"436": {
+"side": 21.0,
+"source": "grid"
+},
+"437": {
+"side": 21.0,
+"source": "grid"
+},
+"438": {
+"side": 21.0,
+"source": "grid"
+},
+"439": {
+"side": 21.0,
+"source": "grid"
+},
+"440": {
+"side": 21.0,
+"source": "grid"
+},
+"441": {
+"side": 21.0,
+"source": "grid"
+},
+"442": {
+"side": 21.535533905932738,
+"source": "couzo:n101.cert+L11"
+},
+"443": {
+"side": 21.535533905932738,
+"source": "couzo:n291.cert+L4"
+},
+"444": {
+"side": 21.571428571433902,
+"source": "couzo:n403.cert+L1"
+},
+"445": {
+"side": 21.591378147527735,
+"source": "couzo:n404.cert+L1+lp"
+},
+"446": {
+"side": 21.64575325255997,
+"source": "couzo:n446.cert+lp"
+},
+"447": {
+"side": 21.656854249505095,
+"source": "couzo:n447.cert"
+},
+"448": {
+"side": 21.69238815544759,
+"source": "couzo:n368.cert+L2"
+},
+"449": {
+"side": 21.707106781186546,
+"source": "couzo:n369.cert+L2"
+},
+"450": {
+"side": 21.73316600994344,
+"source": "couzo:n450.cert+lp"
+},
+"451": {
+"side": 21.75609756335443,
+"source": "couzo:n451.cert+lp"
+},
+"452": {
+"side": 21.778174593057102,
+"source": "couzo:n452.cert"
+},
+"453": {
+"side": 21.808663234397326,
+"source": "couzo:n453.cert"
+},
+"454": {
+"side": 21.823102658314895,
+"source": "couzo:n454.cert+lp"
+},
+"455": {
+"side": 21.825061498377877,
+"source": "couzo:n455.cert+lp"
+},
+"456": {
+"side": 21.860400549176163,
+"source": "couzo:n456.cert"
+},
+"457": {
+"side": 21.887038105267784,
+"source": "couzo:n457.cert"
+},
+"458": {
+"side": 21.88991375962777,
+"source": "couzo:n458.cert"
+},
+"459": {
+"side": 21.905182432783075,
+"source": "couzo:n459.cert"
+},
+"460": {
+"side": 21.933868692317013,
+"source": "couzo:n460.cert+lp"
+},
+"461": {
+"side": 21.941808605720166,
+"source": "couzo:n461.cert+lp"
+},
+"462": {
+"side": 21.965358248122662,
+"source": "couzo:n462.cert"
+},
+"463": {
+"side": 21.97020028901984,
+"source": "couzo:n463.cert"
+},
+"464": {
+"side": 21.986268532626838,
+"source": "couzo:n464.cert"
+},
+"465": {
+"side": 21.999864312844824,
+"source": "couzo:n465.cert+lp"
+},
+"466": {
+"side": 22.0,
+"source": "grid"
+},
+"467": {
+"side": 22.0,
+"source": "grid"
+},
+"468": {
+"side": 22.0,
+"source": "grid"
+},
+"469": {
+"side": 22.0,
+"source": "grid"
+},
+"470": {
+"side": 22.0,
+"source": "grid"
+},
+"471": {
+"side": 22.0,
+"source": "grid"
+},
+"472": {
+"side": 22.0,
+"source": "grid"
+},
+"473": {
+"side": 22.0,
+"source": "grid"
+},
+"474": {
+"side": 22.0,
+"source": "grid"
+},
+"475": {
+"side": 22.0,
+"source": "grid"
+},
+"476": {
+"side": 22.0,
+"source": "grid"
+},
+"477": {
+"side": 22.0,
+"source": "grid"
+},
+"478": {
+"side": 22.0,
+"source": "grid"
+},
+"479": {
+"side": 22.0,
+"source": "grid"
+},
+"480": {
+"side": 22.0,
+"source": "grid"
+},
+"481": {
+"side": 22.0,
+"source": "grid"
+},
+"482": {
+"side": 22.0,
+"source": "grid"
+},
+"483": {
+"side": 22.0,
+"source": "grid"
+},
+"484": {
+"side": 22.0,
+"source": "grid"
+},
+"485": {
+"side": 22.535533905932738,
+"source": "couzo:n101.cert+L12"
+},
+"486": {
+"side": 22.535533905932738,
+"source": "couzo:n291.cert+L5"
+},
+"487": {
+"side": 22.571428571433902,
+"source": "couzo:n403.cert+L2"
+},
+"488": {
+"side": 22.59137814762773,
+"source": "couzo:n404.cert+L2+lp"
+},
+"489": {
+"side": 22.606601717798213,
+"source": "gobel-square:a=11,b=15"
+},
+"490": {
+"side": 22.65685424949704,
+"source": "couzo:n490.cert"
+},
+"491": {
+"side": 22.69238815544759,
+"source": "couzo:n368.cert+L3"
+},
+"492": {
+"side": 22.707106781186546,
+"source": "couzo:n369.cert+L3"
+},
+"493": {
+"side": 22.707106781186546,
+"source": "gobel-strip:a=21"
+},
+"494": {
+"side": 22.737532875218587,
+"source": "couzo:n494.cert"
+},
+"495": {
+"side": 22.774735132401286,
+"source": "couzo:n495.cert"
+},
+"496": {
+"side": 22.782823856526676,
+"source": "couzo:n496.cert"
+},
+"497": {
+"side": 22.80243092320697,
+"source": "couzo:n497.cert+lp"
+},
+"498": {
+"side": 22.824047237398513,
+"source": "couzo:n498.cert+lp"
+},
+"499": {
+"side": 22.829299843397266,
+"source": "couzo:n499.cert"
+},
+"500": {
+"side": 22.870013850417998,
+"source": "couzo:n500.cert"
+},
+"501": {
+"side": 22.880960371569095,
+"source": "couzo:n501.cert"
+},
+"502": {
+"side": 22.89235684002425,
+"source": "couzo:n502.cert+lp"
+},
+"503": {
+"side": 22.899947525473365,
+"source": "couzo:n503.cert+lp"
+},
+"504": {
+"side": 22.92598702488646,
+"source": "couzo:n504.cert+lp"
+},
+"505": {
+"side": 22.93922489119216,
+"source": "couzo:n505.cert+lp"
+},
+"506": {
+"side": 22.953204892555846,
+"source": "couzo:n506.cert+lp"
+},
+"507": {
+"side": 22.973697163640818,
+"source": "couzo:n507.cert"
+},
+"508": {
+"side": 22.982358278345792,
+"source": "couzo:n508.cert+lp"
+},
+"509": {
+"side": 22.99315062223245,
+"source": "couzo:n509.cert+lp"
+},
+"510": {
+"side": 23.0,
+"source": "grid"
+},
+"511": {
+"side": 23.0,
+"source": "grid"
+},
+"512": {
+"side": 23.0,
+"source": "grid"
+},
+"513": {
+"side": 23.0,
+"source": "grid"
+},
+"514": {
+"side": 23.0,
+"source": "grid"
+},
+"515": {
+"side": 23.0,
+"source": "grid"
+},
+"516": {
+"side": 23.0,
+"source": "grid"
+},
+"517": {
+"side": 23.0,
+"source": "grid"
+},
+"518": {
+"side": 23.0,
+"source": "grid"
+},
+"519": {
+"side": 23.0,
+"source": "grid"
+},
+"520": {
+"side": 23.0,
+"source": "grid"
+},
+"521": {
+"side": 23.0,
+"source": "grid"
+},
+"522": {
+"side": 23.0,
+"source": "grid"
+},
+"523": {
+"side": 23.0,
+"source": "grid"
+},
+"524": {
+"side": 23.0,
+"source": "grid"
+},
+"525": {
+"side": 23.0,
+"source": "grid"
+},
+"526": {
+"side": 23.0,
+"source": "grid"
+},
+"527": {
+"side": 23.0,
+"source": "grid"
+},
+"528": {
+"side": 23.0,
+"source": "grid"
+},
+"529": {
+"side": 23.0,
+"source": "grid"
+},
+"530": {
+"side": 23.535533905932738,
+"source": "couzo:n101.cert+L13"
+},
+"531": {
+"side": 23.535533905932738,
+"source": "couzo:n291.cert+L6"
+},
+"532": {
+"side": 23.569769399320148,
+"source": "couzo:n532.cert+lp"
+},
+"533": {
+"side": 23.58378219238128,
+"source": "couzo:n533.cert+lp"
+},
+"534": {
+"side": 23.606601717798213,
+"source": "gobel-square:a=11,b=15+L1"
+},
+"535": {
+"side": 23.65685424949704,
+"source": "couzo:n490.cert+L1"
+},
+"536": {
+"side": 23.656854249520762,
+"source": "couzo:n536.cert"
+},
+"537": {
+"side": 23.69238815766512,
+"source": "couzo:n537.cert+lp"
+},
+"538": {
+"side": 23.707106781186546,
+"source": "gobel-strip:a=21+L1"
+},
+"539": {
+"side": 23.736669673810752,
+"source": "couzo:n539.cert"
+},
+"540": {
+"side": 23.756097563554434,
+"source": "couzo:n540.cert+lp"
+},
+"541": {
+"side": 23.778174595300598,
+"source": "couzo:n541.cert+lp"
+},
+"542": {
+"side": 23.802319097078527,
+"source": "couzo:n542.cert+lp"
+},
+"543": {
+"side": 23.80247228205867,
+"source": "couzo:n543.cert+lp"
+},
+"544": {
+"side": 23.824484936222284,
+"source": "couzo:n544.cert+lp"
+},
+"545": {
+"side": 23.839425510328915,
+"source": "couzo:n545.cert+lp"
+},
+"546": {
+"side": 23.870013852332317,
+"source": "couzo:n546.cert"
+},
+"547": {
+"side": 23.87912755587445,
+"source": "couzo:n547.cert+lp"
+},
+"548": {
+"side": 23.888388276404726,
+"source": "couzo:n548.cert"
+},
+"549": {
+"side": 23.90861331173567,
+"source": "couzo:n549.cert+lp"
+},
+"550": {
+"side": 23.913368338052706,
+"source": "couzo:n550.cert+lp"
+},
+"551": {
+"side": 23.935417081350934,
+"source": "couzo:n551.cert+lp"
+},
+"552": {
+"side": 23.946652263779427,
+"source": "couzo:n552.cert"
+},
+"553": {
+"side": 23.969774257084442,
+"source": "couzo:n553.cert+lp"
+},
+"554": {
+"side": 23.980410803449132,
+"source": "couzo:n554.cert"
+},
+"555": {
+"side": 23.990764053251834,
+"source": "couzo:n555.cert+lp"
+},
+"556": {
+"side": 24.0,
+"source": "grid"
+},
+"557": {
+"side": 24.0,
+"source": "grid"
+},
+"558": {
+"side": 24.0,
+"source": "grid"
+},
+"559": {
+"side": 24.0,
+"source": "grid"
+},
+"560": {
+"side": 24.0,
+"source": "grid"
+},
+"561": {
+"side": 24.0,
+"source": "grid"
+},
+"562": {
+"side": 24.0,
+"source": "grid"
+},
+"563": {
+"side": 24.0,
+"source": "grid"
+},
+"564": {
+"side": 24.0,
+"source": "grid"
+},
+"565": {
+"side": 24.0,
+"source": "grid"
+},
+"566": {
+"side": 24.0,
+"source": "grid"
+},
+"567": {
+"side": 24.0,
+"source": "grid"
+},
+"568": {
+"side": 24.0,
+"source": "grid"
+},
+"569": {
+"side": 24.0,
+"source": "grid"
+},
+"570": {
+"side": 24.0,
+"source": "grid"
+},
+"571": {
+"side": 24.0,
+"source": "grid"
+},
+"572": {
+"side": 24.0,
+"source": "grid"
+},
+"573": {
+"side": 24.0,
+"source": "grid"
+},
+"574": {
+"side": 24.0,
+"source": "grid"
+},
+"575": {
+"side": 24.0,
+"source": "grid"
+},
+"576": {
+"side": 24.0,
+"source": "grid"
+},
+"577": {
+"side": 24.535533905932738,
+"source": "couzo:n101.cert+L14"
+},
+"578": {
+"side": 24.535533905932738,
+"source": "couzo:n291.cert+L7"
+},
+"579": {
+"side": 24.563448004462266,
+"source": "couzo:n579.cert+lp"
+},
+"580": {
+"side": 24.583782192481273,
+"source": "couzo:n533.cert+L1+lp"
+},
+"581": {
+"side": 24.606601717798213,
+"source": "gobel-square:a=11,b=15+L2"
+},
+"582": {
+"side": 24.646771924492025,
+"source": "couzo:n582.cert"
+},
+"583": {
+"side": 24.656854249506964,
+"source": "couzo:n583.cert"
+},
+"584": {
+"side": 24.677669529668844,
+"source": "couzo:n584.cert"
+},
+"585": {
+"side": 24.707106781186546,
+"source": "gobel-strip:a=21+L2"
+},
+"586": {
+"side": 24.707106781186546,
+"source": "gobel-strip:a=23"
+},
+"587": {
+"side": 24.756097560990252,
+"source": "couzo:n587.cert"
+},
+"588": {
+"side": 24.778174593061646,
+"source": "couzo:n588.cert"
+},
+"589": {
+"side": 24.778174594027224,
+"source": "couzo:n589.cert"
+},
+"590": {
+"side": 24.802527132870274,
+"source": "couzo:n590.cert"
+},
+"591": {
+"side": 24.81959056029465,
+"source": "couzo:n591.cert"
+},
+"592": {
+"side": 24.824728378490427,
+"source": "couzo:n592.cert+lp"
+},
+"593": {
+"side": 24.851666731968642,
+"source": "couzo:n593.cert"
+},
+"594": {
+"side": 24.878125156033537,
+"source": "couzo:n594.cert+lp"
+},
+"595": {
+"side": 24.87827362033954,
+"source": "couzo:n595.cert"
+},
+"596": {
+"side": 24.88819738513421,
+"source": "couzo:n596.cert+lp"
+},
+"597": {
+"side": 24.901150563237962,
+"source": "couzo:n597.cert+lp"
+},
+"598": {
+"side": 24.912632654492736,
+"source": "couzo:n598.cert+lp"
+},
+"599": {
+"side": 24.93726438647532,
+"source": "couzo:n599.cert+lp"
+},
+"600": {
+"side": 24.951414939456782,
+"source": "couzo:n600.cert"
+},
+"601": {
+"side": 24.958444750534866,
+"source": "couzo:n601.cert+lp"
+},
+"602": {
+"side": 24.981439365584997,
+"source": "couzo:n602.cert+lp"
+},
+"603": {
+"side": 24.990355569378096,
+"source": "couzo:n603.cert"
+},
+"604": {
+"side": 24.996827809423735,
+"source": "couzo:n604.cert+lp"
+},
+"605": {
+"side": 25.0,
+"source": "grid"
+},
+"606": {
+"side": 25.0,
+"source": "grid"
+},
+"607": {
+"side": 25.0,
+"source": "grid"
+},
+"608": {
+"side": 25.0,
+"source": "grid"
+},
+"609": {
+"side": 25.0,
+"source": "grid"
+},
+"610": {
+"side": 25.0,
+"source": "grid"
+},
+"611": {
+"side": 25.0,
+"source": "grid"
+},
+"612": {
+"side": 25.0,
+"source": "grid"
+},
+"613": {
+"side": 25.0,
+"source": "grid"
+},
+"614": {
+"side": 25.0,
+"source": "grid"
+},
+"615": {
+"side": 25.0,
+"source": "grid"
+},
+"616": {
+"side": 25.0,
+"source": "grid"
+},
+"617": {
+"side": 25.0,
+"source": "grid"
+},
+"618": {
+"side": 25.0,
+"source": "grid"
+},
+"619": {
+"side": 25.0,
+"source": "grid"
+},
+"620": {
+"side": 25.0,
+"source": "grid"
+},
+"621": {
+"side": 25.0,
+"source": "grid"
+},
+"622": {
+"side": 25.0,
+"source": "grid"
+},
+"623": {
+"side": 25.0,
+"source": "grid"
+},
+"624": {
+"side": 25.0,
+"source": "grid"
+},
+"625": {
+"side": 25.0,
+"source": "grid"
+},
+"626": {
+"side": 25.520815280200786,
+"source": "couzo:n626.cert"
+},
+"627": {
+"side": 25.535533905932738,
+"source": "couzo:n291.cert+L8"
+},
+"628": {
+"side": 25.53553390835703,
+"source": "couzo:n628.cert+lp"
+},
+"629": {
+"side": 25.583782191956836,
+"source": "couzo:n629.cert"
+},
+"630": {
+"side": 25.604601475736224,
+"source": "couzo:n630.cert"
+},
+"631": {
+"side": 25.627416997974812,
+"source": "couzo:n631.cert"
+},
+"632": {
+"side": 25.656854249506964,
+"source": "couzo:n583.cert+L1"
+},
+"633": {
+"side": 25.656854251928806,
+"source": "couzo:n633.cert+lp"
+},
+"634": {
+"side": 25.707106781186546,
+"source": "gobel-strip:a=21+L3"
+},
+"635": {
+"side": 25.707106781186546,
+"source": "gobel-strip:a=23+L1"
+},
+"636": {
+"side": 25.727922061357855,
+"source": "gobel-square:a=12,b=18"
+},
+"637": {
+"side": 25.769289512725074,
+"source": "couzo:n637.cert+lp"
+},
+"638": {
+"side": 25.778174593067316,
+"source": "couzo:n638.cert"
+},
+"639": {
+"side": 25.79720062091487,
+"source": "couzo:n639.cert+lp"
+},
+"640": {
+"side": 25.802472282258442,
+"source": "couzo:n640.cert+lp"
+},
+"641": {
+"side": 25.823988354267126,
+"source": "couzo:n641.cert+lp"
+},
+"642": {
+"side": 25.833072972403397,
+"source": "couzo:n642.cert"
+},
+"643": {
+"side": 25.85166673196927,
+"source": "couzo:n643.cert"
+},
+"644": {
+"side": 25.877408476144865,
+"source": "couzo:n644.cert"
+},
+"645": {
+"side": 25.883109176829155,
+"source": "couzo:n645.cert+lp"
+},
+"646": {
+"side": 25.892014038159278,
+"source": "couzo:n646.cert"
+},
+"647": {
+"side": 25.899276594080995,
+"source": "couzo:n647.cert"
+},
+"648": {
+"side": 25.908832791930152,
+"source": "couzo:n648.cert+lp"
+},
+"649": {
+"side": 25.93991388703725,
+"source": "couzo:n649.cert"
+},
+"650": {
+"side": 25.956098976262584,
+"source": "couzo:n650.cert"
+},
+"651": {
+"side": 25.963953973575446,
+"source": "couzo:n651.cert"
+},
+"652": {
+"side": 25.982242356671925,
+"source": "couzo:n652.cert+lp"
+},
+"653": {
+"side": 25.991128740175483,
+"source": "couzo:n653.cert+lp"
+},
+"654": {
+"side": 25.994801642472776,
+"source": "couzo:n654.cert"
+},
+"655": {
+"side": 26.0,
+"source": "grid"
+},
+"656": {
+"side": 26.0,
+"source": "grid"
+},
+"657": {
+"side": 26.0,
+"source": "grid"
+},
+"658": {
+"side": 26.0,
+"source": "grid"
+},
+"659": {
+"side": 26.0,
+"source": "grid"
+},
+"660": {
+"side": 26.0,
+"source": "grid"
+},
+"661": {
+"side": 26.0,
+"source": "grid"
+},
+"662": {
+"side": 26.0,
+"source": "grid"
+},
+"663": {
+"side": 26.0,
+"source": "grid"
+},
+"664": {
+"side": 26.0,
+"source": "grid"
+},
+"665": {
+"side": 26.0,
+"source": "grid"
+},
+"666": {
+"side": 26.0,
+"source": "grid"
+},
+"667": {
+"side": 26.0,
+"source": "grid"
+},
+"668": {
+"side": 26.0,
+"source": "grid"
+},
+"669": {
+"side": 26.0,
+"source": "grid"
+},
+"670": {
+"side": 26.0,
+"source": "grid"
+},
+"671": {
+"side": 26.0,
+"source": "grid"
+},
+"672": {
+"side": 26.0,
+"source": "grid"
+},
+"673": {
+"side": 26.0,
+"source": "grid"
+},
+"674": {
+"side": 26.0,
+"source": "grid"
+},
+"675": {
+"side": 26.0,
+"source": "grid"
+},
+"676": {
+"side": 26.0,
+"source": "grid"
+},
+"677": {
+"side": 26.520815280200786,
+"source": "couzo:n626.cert+L1"
+},
+"678": {
+"side": 26.535533905932738,
+"source": "couzo:n291.cert+L9"
+},
+"679": {
+"side": 26.535533908457026,
+"source": "couzo:n628.cert+L1+lp"
+},
+"680": {
+"side": 26.571428571435963,
+"source": "couzo:n680.cert"
+},
+"681": {
+"side": 26.591378145503207,
+"source": "couzo:n681.cert"
+},
+"682": {
+"side": 26.62127550132057,
+"source": "couzo:n682.cert"
+},
+"683": {
+"side": 26.656854249500938,
+"source": "couzo:n684.cert"
+},
+"684": {
+"side": 26.656854249500945,
+"source": "couzo:n684.cert"
+},
+"685": {
+"side": 26.692388157965098,
+"source": "couzo:n685.cert+lp"
+},
+"686": {
+"side": 26.707106781186546,
+"source": "gobel-strip:a=23+L2"
+},
+"687": {
+"side": 26.727922061357855,
+"source": "gobel-square:a=12,b=18+L1"
+},
+"688": {
+"side": 26.727922061357855,
+"source": "gobel-square:a=13,b=18"
+},
+"689": {
+"side": 26.774735132403748,
+"source": "couzo:n689.cert"
+},
+"690": {
+"side": 26.78930378374967,
+"source": "couzo:n690.cert"
+},
+"691": {
+"side": 26.799812127480113,
+"source": "couzo:n691.cert+lp"
+},
+"692": {
+"side": 26.819198945559624,
+"source": "couzo:n692.cert"
+},
+"693": {
+"side": 26.824728376139323,
+"source": "couzo:n693.cert"
+},
+"694": {
+"side": 26.831812064398452,
+"source": "couzo:n694.cert"
+},
+"695": {
+"side": 26.851666731969875,
+"source": "couzo:n695.cert"
+},
+"696": {
+"side": 26.878731242894116,
+"source": "couzo:n696.cert"
+},
+"697": {
+"side": 26.88819738533026,
+"source": "couzo:n697.cert+lp"
+},
+"698": {
+"side": 26.89208696732498,
+"source": "couzo:n698.cert"
+},
+"699": {
+"side": 26.907569482167016,
+"source": "couzo:n699.cert+lp"
+},
+"700": {
+"side": 26.90809268220928,
+"source": "couzo:n700.cert+lp"
+},
+"701": {
+"side": 26.94143794279867,
+"source": "couzo:n701.cert"
+},
+"702": {
+"side": 26.94822167172775,
+"source": "couzo:n702.cert"
+},
+"703": {
+"side": 26.961863453726284,
+"source": "couzo:n703.cert"
+},
+"704": {
+"side": 26.96523023561751,
+"source": "couzo:n704.cert+lp"
+},
+"705": {
+"side": 26.986054847655197,
+"source": "couzo:n705.cert+lp"
+},
+"706": {
+"side": 26.99539800545311,
+"source": "couzo:n706.cert+lp"
+},
+"707": {
+"side": 27.0,
+"source": "grid"
+},
+"708": {
+"side": 27.0,
+"source": "grid"
+},
+"709": {
+"side": 27.0,
+"source": "grid"
+},
+"710": {
+"side": 27.0,
+"source": "grid"
+},
+"711": {
+"side": 27.0,
+"source": "grid"
+},
+"712": {
+"side": 27.0,
+"source": "grid"
+},
+"713": {
+"side": 27.0,
+"source": "grid"
+},
+"714": {
+"side": 27.0,
+"source": "grid"
+},
+"715": {
+"side": 27.0,
+"source": "grid"
+},
+"716": {
+"side": 27.0,
+"source": "grid"
+},
+"717": {
+"side": 27.0,
+"source": "grid"
+},
+"718": {
+"side": 27.0,
+"source": "grid"
+},
+"719": {
+"side": 27.0,
+"source": "grid"
+},
+"720": {
+"side": 27.0,
+"source": "grid"
+},
+"721": {
+"side": 27.0,
+"source": "grid"
+},
+"722": {
+"side": 27.0,
+"source": "grid"
+},
+"723": {
+"side": 27.0,
+"source": "grid"
+},
+"724": {
+"side": 27.0,
+"source": "grid"
+},
+"725": {
+"side": 27.0,
+"source": "grid"
+},
+"726": {
+"side": 27.0,
+"source": "grid"
+},
+"727": {
+"side": 27.0,
+"source": "grid"
+},
+"728": {
+"side": 27.0,
+"source": "grid"
+},
+"729": {
+"side": 27.0,
+"source": "grid"
+},
+"730": {
+"side": 27.520815280200786,
+"source": "couzo:n626.cert+L2"
+},
+"731": {
+"side": 27.535533905932738,
+"source": "couzo:n291.cert+L10"
+},
+"732": {
+"side": 27.535533908557035,
+"source": "couzo:n628.cert+L2+lp"
+},
+"733": {
+"side": 27.571428571435963,
+"source": "couzo:n680.cert+L1"
+},
+"734": {
+"side": 27.591378145503207,
+"source": "couzo:n681.cert+L1"
+},
+"735": {
+"side": 27.617572176225302,
+"source": "couzo:n735.cert+lp"
+},
+"736": {
+"side": 27.6525432638329,
+"source": "couzo:n736.cert"
+},
+"737": {
+"side": 27.656854249500945,
+"source": "couzo:n684.cert+L1"
+},
+"738": {
+"side": 27.69128362528138,
+"source": "couzo:n738.cert+lp"
+},
+"739": {
+"side": 27.691450195503776,
+"source": "couzo:n739.cert+lp"
+},
+"740": {
+"side": 27.707106781186546,
+"source": "gobel-strip:a=26"
+},
+"741": {
+"side": 27.727922061357855,
+"source": "gobel-square:a=13,b=18+L1"
+},
+"742": {
+"side": 27.764050055203565,
+"source": "couzo:n742.cert"
+},
+"743": {
+"side": 27.778174593057813,
+"source": "couzo:n743.cert"
+},
+"744": {
+"side": 27.798989873229186,
+"source": "couzo:n744.cert"
+},
+"745": {
+"side": 27.799812126180317,
+"source": "couzo:n745.cert+lp"
+},
+"746": {
+"side": 27.80247228245809,
+"source": "couzo:n746.cert+lp"
+},
+"747": {
+"side": 27.824728378790255,
+"source": "couzo:n747.cert+lp"
+},
+"748": {
+"side": 27.842707871880634,
+"source": "couzo:n748.cert+lp"
+},
+"749": {
+"side": 27.846045890571858,
+"source": "couzo:n749.cert"
+},
+"750": {
+"side": 27.874585541192786,
+"source": "couzo:n750.cert"
+},
+"751": {
+"side": 27.88819738542719,
+"source": "couzo:n751.cert+lp"
+},
+"752": {
+"side": 27.898764406577577,
+"source": "couzo:n752.cert"
+},
+"753": {
+"side": 27.907983915815954,
+"source": "couzo:n753.cert+lp"
+},
+"754": {
+"side": 27.920621682789537,
+"source": "couzo:n754.cert"
+},
+"755": {
+"side": 27.93386868616999,
+"source": "couzo:n755.cert+lp"
+},
+"756": {
+"side": 27.94964582694095,
+"source": "couzo:n756.cert+lp"
+},
+"757": {
+"side": 27.956210087374675,
+"source": "couzo:n757.cert+lp"
+},
+"758": {
+"side": 27.971371820027237,
+"source": "couzo:n758.cert"
+},
+"759": {
+"side": 27.976904856897036,
+"source": "couzo:n759.cert+lp"
+},
+"760": {
+"side": 27.992923233305163,
+"source": "couzo:n760.cert"
+},
+"761": {
+"side": 27.998783744371792,
+"source": "couzo:n761.cert+lp"
+},
+"762": {
+"side": 28.0,
+"source": "grid"
+},
+"763": {
+"side": 28.0,
+"source": "grid"
+},
+"764": {
+"side": 28.0,
+"source": "grid"
+},
+"765": {
+"side": 28.0,
+"source": "grid"
+},
+"766": {
+"side": 28.0,
+"source": "grid"
+},
+"767": {
+"side": 28.0,
+"source": "grid"
+},
+"768": {
+"side": 28.0,
+"source": "grid"
+},
+"769": {
+"side": 28.0,
+"source": "grid"
+},
+"770": {
+"side": 28.0,
+"source": "grid"
+},
+"771": {
+"side": 28.0,
+"source": "grid"
+},
+"772": {
+"side": 28.0,
+"source": "grid"
+},
+"773": {
+"side": 28.0,
+"source": "grid"
+},
+"774": {
+"side": 28.0,
+"source": "grid"
+},
+"775": {
+"side": 28.0,
+"source": "grid"
+},
+"776": {
+"side": 28.0,
+"source": "grid"
+},
+"777": {
+"side": 28.0,
+"source": "grid"
+},
+"778": {
+"side": 28.0,
+"source": "grid"
+},
+"779": {
+"side": 28.0,
+"source": "grid"
+},
+"780": {
+"side": 28.0,
+"source": "grid"
+},
+"781": {
+"side": 28.0,
+"source": "grid"
+},
+"782": {
+"side": 28.0,
+"source": "grid"
+},
+"783": {
+"side": 28.0,
+"source": "grid"
+},
+"784": {
+"side": 28.0,
+"source": "grid"
+},
+"785": {
+"side": 28.520815280200786,
+"source": "couzo:n626.cert+L3"
+},
+"786": {
+"side": 28.535533905932738,
+"source": "couzo:n291.cert+L11"
+},
+"787": {
+"side": 28.535533908657037,
+"source": "couzo:n628.cert+L3+lp"
+},
+"788": {
+"side": 28.571428571435963,
+"source": "couzo:n680.cert+L2"
+},
+"789": {
+"side": 28.591378145503207,
+"source": "couzo:n681.cert+L2"
+},
+"790": {
+"side": 28.61436894122793,
+"source": "couzo:n790.cert+lp"
+},
+"791": {
+"side": 28.642135624898497,
+"source": "couzo:n791.cert"
+},
+"792": {
+"side": 28.656854249498373,
+"source": "couzo:n792.cert"
+},
+"793": {
+"side": 28.67877987808162,
+"source": "couzo:n793.cert+lp"
+},
+"794": {
+"side": 28.69144897302096,
+"source": "couzo:n794.cert+lp"
+},
+"795": {
+"side": 28.707106781186546,
+"source": "gobel-strip:a=26+L1"
+},
+"796": {
+"side": 28.727922061357855,
+"source": "gobel-square:a=13,b=18+L2"
+},
+"797": {
+"side": 28.75609756098492,
+"source": "couzo:n797.cert"
+},
+"798": {
+"side": 28.77473513239719,
+"source": "couzo:n798.cert"
+},
+"799": {
+"side": 28.78466436523069,
+"source": "couzo:n799.cert"
+},
+"800": {
+"side": 28.798989873229345,
+"source": "couzo:n800.cert"
+},
+"801": {
+"side": 28.802428716950192,
+"source": "couzo:n801.cert"
+},
+"802": {
+"side": 28.808159533752914,
+"source": "couzo:n802.cert+lp"
+},
+"803": {
+"side": 28.827585222353328,
+"source": "couzo:n803.cert"
+},
+"804": {
+"side": 28.845430623593103,
+"source": "couzo:n804.cert"
+},
+"805": {
+"side": 28.858216341606667,
+"source": "couzo:n805.cert"
+},
+"806": {
+"side": 28.863733504352712,
+"source": "couzo:n806.cert+lp"
+},
+"807": {
+"side": 28.888197385528777,
+"source": "couzo:n807.cert+lp"
+},
+"808": {
+"side": 28.89927310106383,
+"source": "couzo:n808.cert"
+},
+"809": {
+"side": 28.908036098649358,
+"source": "couzo:n809.cert"
+},
+"810": {
+"side": 28.91045103644146,
+"source": "couzo:n810.cert+lp"
+},
+"811": {
+"side": 28.925426763360058,
+"source": "couzo:n811.cert"
+},
+"812": {
+"side": 28.94822167172774,
+"source": "couzo:n812.cert"
+},
+"813": {
+"side": 28.956254112323588,
+"source": "couzo:n813.cert"
+},
+"814": {
+"side": 28.961440808823937,
+"source": "couzo:n814.cert"
+},
+"815": {
+"side": 28.985522823464173,
+"source": "couzo:n815.cert+lp"
+},
+"816": {
+"side": 28.992261719304413,
+"source": "couzo:n816.cert+lp"
+},
+"817": {
+"side": 28.99687592303508,
+"source": "couzo:n817.cert+lp"
+},
+"818": {
+"side": 29.0,
+"source": "grid"
+},
+"819": {
+"side": 29.0,
+"source": "grid"
+},
+"820": {
+"side": 29.0,
+"source": "grid"
+},
+"821": {
+"side": 29.0,
+"source": "grid"
+},
+"822": {
+"side": 29.0,
+"source": "grid"
+},
+"823": {
+"side": 29.0,
+"source": "grid"
+},
+"824": {
+"side": 29.0,
+"source": "grid"
+},
+"825": {
+"side": 29.0,
+"source": "grid"
+},
+"826": {
+"side": 29.0,
+"source": "grid"
+},
+"827": {
+"side": 29.0,
+"source": "grid"
+},
+"828": {
+"side": 29.0,
+"source": "grid"
+},
+"829": {
+"side": 29.0,
+"source": "grid"
+},
+"830": {
+"side": 29.0,
+"source": "grid"
+},
+"831": {
+"side": 29.0,
+"source": "grid"
+},
+"832": {
+"side": 29.0,
+"source": "grid"
+},
+"833": {
+"side": 29.0,
+"source": "grid"
+},
+"834": {
+"side": 29.0,
+"source": "grid"
+},
+"835": {
+"side": 29.0,
+"source": "grid"
+},
+"836": {
+"side": 29.0,
+"source": "grid"
+},
+"837": {
+"side": 29.0,
+"source": "grid"
+},
+"838": {
+"side": 29.0,
+"source": "grid"
+},
+"839": {
+"side": 29.0,
+"source": "grid"
+},
+"840": {
+"side": 29.0,
+"source": "grid"
+},
+"841": {
+"side": 29.0,
+"source": "grid"
+},
+"842": {
+"side": 29.520815280200786,
+"source": "couzo:n626.cert+L4"
+},
+"843": {
+"side": 29.535533905932738,
+"source": "couzo:n291.cert+L12"
+},
+"844": {
+"side": 29.53553390875706,
+"source": "couzo:n628.cert+L4+lp"
+},
+"845": {
+"side": 29.571428571435963,
+"source": "couzo:n680.cert+L3"
+},
+"846": {
+"side": 29.58378219298129,
+"source": "couzo:n846.cert+lp"
+},
+"847": {
+"side": 29.606601717804423,
+"source": "couzo:n847.cert"
+},
+"848": {
+"side": 29.642135623765405,
+"source": "couzo:n848.cert"
+},
+"849": {
+"side": 29.642135623765405,
+"source": "couzo:n849.cert"
+},
+"850": {
+"side": 29.6568542494986,
+"source": "couzo:n850.cert"
+},
+"851": {
+"side": 29.691448975559638,
+"source": "couzo:n851.cert"
+},
+"852": {
+"side": 29.707106781186546,
+"source": "gobel-strip:a=26+L2"
+},
+"853": {
+"side": 29.707106781186546,
+"source": "gobel-strip:a=28"
+},
+"854": {
+"side": 29.727922064205472,
+"source": "couzo:n854.cert+lp"
+},
+"855": {
+"side": 29.748737341546892,
+"source": "couzo:n855.cert"
+},
+"856": {
+"side": 29.778174594232276,
+"source": "couzo:n856.cert"
+},
+"857": {
+"side": 29.79282052075657,
+"source": "couzo:n857.cert"
+},
+"858": {
+"side": 29.797049226936323,
+"source": "couzo:n858.cert+lp"
+},
+"859": {
+"side": 29.80815953385293,
+"source": "couzo:n802.cert+L1+lp"
+},
+"860": {
+"side": 29.825090165815027,
+"source": "couzo:n860.cert"
+},
+"861": {
+"side": 29.82992041588235,
+"source": "couzo:n861.cert+lp"
+},
+"862": {
+"side": 29.845229290995583,
+"source": "couzo:n862.cert"
+},
+"863": {
+"side": 29.85728574254695,
+"source": "couzo:n863.cert+lp"
+},
+"864": {
+"side": 29.873878978333646,
+"source": "couzo:n864.cert+lp"
+},
+"865": {
+"side": 29.88626420634588,
+"source": "couzo:n865.cert+lp"
+},
+"866": {
+"side": 29.89893133772063,
+"source": "couzo:n866.cert"
+},
+"867": {
+"side": 29.908036100559894,
+"source": "couzo:n867.cert+lp"
+},
+"868": {
+"side": 29.908292315957805,
+"source": "couzo:n868.cert"
+},
+"869": {
+"side": 29.9131758307288,
+"source": "couzo:n869.cert+lp"
+},
+"870": {
+"side": 29.938769304720186,
+"source": "couzo:n870.cert+lp"
+},
+"871": {
+"side": 29.951737420199535,
+"source": "couzo:n871.cert"
+},
+"872": {
+"side": 29.962147587644274,
+"source": "couzo:n872.cert+lp"
+},
+"873": {
+"side": 29.984677038857313,
+"source": "couzo:n873.cert+lp"
+},
+"874": {
+"side": 29.992261719404766,
+"source": "couzo:n874.cert+lp"
+},
+"875": {
+"side": 29.996827809829348,
+"source": "couzo:n875.cert+lp"
+},
+"876": {
+"side": 30.0,
+"source": "grid"
+},
+"877": {
+"side": 30.0,
+"source": "grid"
+},
+"878": {
+"side": 30.0,
+"source": "grid"
+},
+"879": {
+"side": 30.0,
+"source": "grid"
+},
+"880": {
+"side": 30.0,
+"source": "grid"
+},
+"881": {
+"side": 30.0,
+"source": "grid"
+},
+"882": {
+"side": 30.0,
+"source": "grid"
+},
+"883": {
+"side": 30.0,
+"source": "grid"
+},
+"884": {
+"side": 30.0,
+"source": "grid"
+},
+"885": {
+"side": 30.0,
+"source": "grid"
+},
+"886": {
+"side": 30.0,
+"source": "grid"
+},
+"887": {
+"side": 30.0,
+"source": "grid"
+},
+"888": {
+"side": 30.0,
+"source": "grid"
+},
+"889": {
+"side": 30.0,
+"source": "grid"
+},
+"890": {
+"side": 30.0,
+"source": "grid"
+},
+"891": {
+"side": 30.0,
+"source": "grid"
+},
+"892": {
+"side": 30.0,
+"source": "grid"
+},
+"893": {
+"side": 30.0,
+"source": "grid"
+},
+"894": {
+"side": 30.0,
+"source": "grid"
+},
+"895": {
+"side": 30.0,
+"source": "grid"
+},
+"896": {
+"side": 30.0,
+"source": "grid"
+},
+"897": {
+"side": 30.0,
+"source": "grid"
+},
+"898": {
+"side": 30.0,
+"source": "grid"
+},
+"899": {
+"side": 30.0,
+"source": "grid"
+},
+"900": {
+"side": 30.0,
+"source": "grid"
+},
+"901": {
+"side": 30.520815280200786,
+"source": "couzo:n626.cert+L5"
+},
+"902": {
+"side": 30.535533905932738,
+"source": "couzo:n291.cert+L13"
+},
+"903": {
+"side": 30.535533908857047,
+"source": "couzo:n628.cert+L5+lp"
+},
+"904": {
+"side": 30.56362800822444,
+"source": "couzo:n904.cert+lp"
+},
+"905": {
+"side": 30.583782191752242,
+"source": "couzo:n905.cert"
+},
+"906": {
+"side": 30.591378148427765,
+"source": "couzo:n906.cert+lp"
+},
+"907": {
+"side": 30.619088194050416,
+"source": "couzo:n907.cert+lp"
+},
+"908": {
+"side": 30.642135623765405,
+"source": "couzo:n849.cert+L1"
+},
+"909": {
+"side": 30.6568542494986,
+"source": "couzo:n850.cert+L1"
+},
+"910": {
+"side": 30.691448972632063,
+"source": "couzo:n851.cert+L1+lp"
+},
+"911": {
+"side": 30.707106781186546,
+"source": "gobel-strip:a=26+L3"
+},
+"912": {
+"side": 30.707106781186546,
+"source": "gobel-strip:a=28+L1"
+},
+"913": {
+"side": 30.727922064307464,
+"source": "couzo:n854.cert+L1+lp"
+},
+"914": {
+"side": 30.746670724581506,
+"source": "couzo:n914.cert"
+},
+"915": {
+"side": 30.765987666895448,
+"source": "couzo:n915.cert"
+},
+"916": {
+"side": 30.776452017345687,
+"source": "couzo:n916.cert+lp"
+},
+"917": {
+"side": 30.795318768597788,
+"source": "couzo:n917.cert"
+},
+"918": {
+"side": 30.797200621415193,
+"source": "couzo:n918.cert+lp"
+},
+"919": {
+"side": 30.80815953395272,
+"source": "couzo:n919.cert+lp"
+},
+"920": {
+"side": 30.82159330863428,
+"source": "couzo:n920.cert+lp"
+},
+"921": {
+"side": 30.839621660273735,
+"source": "couzo:n921.cert"
+},
+"922": {
+"side": 30.842382681052374,
+"source": "couzo:n922.cert+lp"
+},
+"923": {
+"side": 30.857285742647303,
+"source": "couzo:n923.cert+lp"
+},
+"924": {
+"side": 30.87765475410731,
+"source": "couzo:n924.cert+lp"
+},
+"925": {
+"side": 30.88822455589707,
+"source": "couzo:n925.cert"
+},
+"926": {
+"side": 30.903410087837354,
+"source": "couzo:n926.cert"
+},
+"927": {
+"side": 30.90809124962066,
+"source": "couzo:n927.cert+lp"
+},
+"928": {
+"side": 30.912952807943817,
+"source": "couzo:n928.cert+lp"
+},
+"929": {
+"side": 30.934039768496177,
+"source": "couzo:n929.cert+lp"
+},
+"930": {
+"side": 30.940199320915752,
+"source": "couzo:n930.cert"
+},
+"931": {
+"side": 30.950386443702527,
+"source": "couzo:n931.cert+lp"
+},
+"932": {
+"side": 30.960209722011353,
+"source": "couzo:n932.cert"
+},
+"933": {
+"side": 30.97225870244033,
+"source": "couzo:n933.cert"
+},
+"934": {
+"side": 30.98757192531294,
+"source": "couzo:n934.cert"
+},
+"935": {
+"side": 30.994174058118517,
+"source": "couzo:n935.cert"
+},
+"936": {
+"side": 31.0,
+"source": "grid"
+},
+"937": {
+"side": 31.0,
+"source": "grid"
+},
+"938": {
+"side": 31.0,
+"source": "grid"
+},
+"939": {
+"side": 31.0,
+"source": "grid"
+},
+"940": {
+"side": 31.0,
+"source": "grid"
+},
+"941": {
+"side": 31.0,
+"source": "grid"
+},
+"942": {
+"side": 31.0,
+"source": "grid"
+},
+"943": {
+"side": 31.0,
+"source": "grid"
+},
+"944": {
+"side": 31.0,
+"source": "grid"
+},
+"945": {
+"side": 31.0,
+"source": "grid"
+},
+"946": {
+"side": 31.0,
+"source": "grid"
+},
+"947": {
+"side": 31.0,
+"source": "grid"
+},
+"948": {
+"side": 31.0,
+"source": "grid"
+},
+"949": {
+"side": 31.0,
+"source": "grid"
+},
+"950": {
+"side": 31.0,
+"source": "grid"
+},
+"951": {
+"side": 31.0,
+"source": "grid"
+},
+"952": {
+"side": 31.0,
+"source": "grid"
+},
+"953": {
+"side": 31.0,
+"source": "grid"
+},
+"954": {
+"side": 31.0,
+"source": "grid"
+},
+"955": {
+"side": 31.0,
+"source": "grid"
+},
+"956": {
+"side": 31.0,
+"source": "grid"
+},
+"957": {
+"side": 31.0,
+"source": "grid"
+},
+"958": {
+"side": 31.0,
+"source": "grid"
+},
+"959": {
+"side": 31.0,
+"source": "grid"
+},
+"960": {
+"side": 31.0,
+"source": "grid"
+},
+"961": {
+"side": 31.0,
+"source": "grid"
+},
+"962": {
+"side": 31.520815280200786,
+"source": "couzo:n626.cert+L6"
+},
+"963": {
+"side": 31.535533905932738,
+"source": "couzo:n291.cert+L14"
+},
+"964": {
+"side": 31.535533908957056,
+"source": "couzo:n628.cert+L6+lp"
+},
+"965": {
+"side": 31.56362565535362,
+"source": "couzo:n965.cert+lp"
+},
+"966": {
+"side": 31.583782191752242,
+"source": "couzo:n905.cert+L1"
+},
+"967": {
+"side": 31.591378148527767,
+"source": "couzo:n906.cert+L1+lp"
+},
+"968": {
+"side": 31.619088194940286,
+"source": "couzo:n968.cert+lp"
+},
+"969": {
+"side": 31.642135623765405,
+"source": "couzo:n849.cert+L2"
+},
+"970": {
+"side": 31.6568542494986,
+"source": "couzo:n850.cert+L2"
+},
+"971": {
+"side": 31.678779878381647,
+"source": "couzo:n971.cert+lp"
+},
+"972": {
+"side": 31.69238815544404,
+"source": "couzo:n972.cert"
+},
+"973": {
+"side": 31.707106781186546,
+"source": "gobel-strip:a=28+L2"
+},
+"974": {
+"side": 31.707106781186546,
+"source": "gobel-strip:a=30"
+},
+"975": {
+"side": 31.72792206440142,
+"source": "couzo:n975.cert+lp"
+},
+"976": {
+"side": 31.747519554836973,
+"source": "couzo:n976.cert"
+},
+"977": {
+"side": 31.765988959202506,
+"source": "couzo:n977.cert+lp"
+},
+"978": {
+"side": 31.779516944582504,
+"source": "couzo:n978.cert"
+},
+"979": {
+"side": 31.792971073051255,
+"source": "couzo:n979.cert"
+},
+"980": {
+"side": 31.799411284177623,
+"source": "couzo:n980.cert+lp"
+},
+"981": {
+"side": 31.80815953405284,
+"source": "couzo:n981.cert+lp"
+},
+"982": {
+"side": 31.827457628694283,
+"source": "couzo:n982.cert+lp"
+},
+"983": {
+"side": 31.832540433608532,
+"source": "couzo:n983.cert+lp"
+},
+"984": {
+"side": 31.85081463456598,
+"source": "couzo:n984.cert+lp"
+},
+"985": {
+"side": 31.858728049403105,
+"source": "couzo:n985.cert"
+},
+"986": {
+"side": 31.866815272520764,
+"source": "couzo:n986.cert"
+},
+"987": {
+"side": 31.888224555907954,
+"source": "couzo:n987.cert"
+},
+"988": {
+"side": 31.896086560754426,
+"source": "couzo:n988.cert"
+},
+"989": {
+"side": 31.909707100830566,
+"source": "couzo:n989.cert+lp"
+},
+"990": {
+"side": 31.910152951674537,
+"source": "couzo:n990.cert+lp"
+},
+"991": {
+"side": 31.934594193722972,
+"source": "couzo:n991.cert"
+},
+"992": {
+"side": 31.94287173175277,
+"source": "couzo:n992.cert+lp"
+},
+"993": {
+"side": 31.953199987593102,
+"source": "couzo:n993.cert+lp"
+},
+"994": {
+"side": 31.960209725066896,
+"source": "couzo:n994.cert+lp"
+},
+"995": {
+"side": 31.967892522874216,
+"source": "couzo:n995.cert"
+},
+"996": {
+"side": 31.987231180316282,
+"source": "couzo:n996.cert+lp"
+},
+"997": {
+"side": 31.995517487692872,
+"source": "couzo:n997.cert+lp"
+},
+"998": {
+"side": 31.9968759202589,
+"source": "couzo:n998.cert"
+},
+"999": {
+"side": 32.0,
+"source": "grid"
+},
+"1000": {
+"side": 32.0,
+"source": "grid"
+}
+}
