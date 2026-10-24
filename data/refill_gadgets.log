@@ -1,0 +1,5 @@
+478 gadgets to refill
+/home/claude/squares-in-squares/sqk/fill.py:45: RuntimeWarning: All-NaN slice encountered
+  return np.nanmin(vals, 1), np.nanmax(vals, 1)
+/home/claude/squares-in-squares/sqk/fill.py:45: RuntimeWarning: All-NaN slice encountered
+  return np.nanmin(vals, 1), np.nanmax(vals, 1)

@@ -215,6 +215,38 @@ Plan, in order of expected gain per effort:
 Discipline: never upload a file the official metric has not passed in both modes; keep
 the best packing per n forever (monotone portfolio); credit every source.
 
+## 5.1 Status and where to resume (24 October 2026, 00:40 ET)
+
+| version | how | Kaggle score | rank |
+| --- | --- | --- | --- |
+| v1 | public frontier + LP sweep | 22.3499485520 | 41 |
+| v2 | + public notebook outputs (Deotte FTMC and others) + LP | 22.3056860415 | 9 |
+| v4 | + gadget recombination + public Kaggle datasets + LP | 22.3043827908 | 9 |
+
+Leader 22.2248. The whole gap is above n = 324 (`data/targets.json` ranks puzzles by score gap).
+
+**Key finding: we are one square short.** At the leaders' bloat, our gadget DP reaches
+their count on 61 of 397 puzzles and is short by exactly one square on 267 (two on 60).
+Angran Zhang's bests repeat the same fractional side across blocks (0.79613 at n = 747,
+803, 861; 0.79903 at 498, 544, 592), so he composes a fixed set of strip gadgets that hold
+one more square than ours at the same bloat. The difference sits in the strip end caps.
+
+Tried, with results:
+* Squeeze and relax of whole packings, gadget basin hopping: no gains (jammed optima).
+* Exact upright refill (`sqk/fill.py`, MILP): recovers every record's uprights exactly, so
+  no free square at the same side.
+* Strip stretching (`sqk/stretch.py`): reproduces existing gadgets; each bar adds about
+  0.017 to 0.035 bloat at fixed width (pitch 1/cos θ > 1).
+* L frame from scratch (`sqk/lframe.py`): strips along two walls give about twice the
+  strip length of a diagonal chain, but upright-only end caps waste too much (795 of 803
+  at K = 28). End caps need squares at intermediate tilts.
+
+Resume with `sqk/endcap.py` (freeze a strip's periodic middle, insert one square into an
+end region, relax that region only, certify with the box LP), then rerun
+`scripts/gadget_compose.py` and submit with `scripts/kaggle_submit.py`. Re-harvest public
+sources first (`scripts/harvest_notebooks.py`, `scripts/harvest_datasets.py`); they moved
+us from rank 41 to 9 in one night.
+
 ## 6. Code map
 
 | path | what it does |
