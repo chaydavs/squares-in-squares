@@ -85,9 +85,15 @@ class LPResult:
 
 
 def solve(P: np.ndarray, trust: float = 0.1, margin: float = 1e-10, pa: PairAxes | None = None,
-          want_grad: bool = False, tol: float = 1e-10) -> LPResult:
-    """One LP: minimize L over centres, angles fixed. Returns the packing translated to [0, L]^2."""
-    P = normalize(P)
+          want_grad: bool = False, tol: float = 1e-10, box: tuple[float, float] | None = None) -> LPResult:
+    """One LP: minimize L over centres, angles fixed. Returns the packing translated to [0, L]^2.
+
+    With box=(w, h) the container is the rectangle [0, w + F] x [0, h + F] and F (the
+    bloat) is minimized instead; P must already sit in that frame (not normalized), and the
+    result's .L is F.
+    """
+    if box is None:
+        P = normalize(P)
     n = len(P)
     th = P[:, 2]
     reach = REACH + 2 * math.sqrt(2) * trust + 1e-6
@@ -118,18 +124,22 @@ def solve(P: np.ndarray, trust: float = 0.1, margin: float = 1e-10, pa: PairAxes
     Aw = sp.csr_matrix((vals, (rows, cols)), shape=(4 * n, nv))
     bw = np.concatenate([-e, -e, -e, -e])
 
+    if box is not None:  # x_i - F <= w - e_i ; y_i - F <= h - e_i
+        bw = np.concatenate([-e, box[0] - e, -e, box[1] - e])
     A = sp.vstack([Ap, Aw]).tocsr()
     b = np.concatenate([bp, bw])
     c = np.zeros(nv)
     c[iL] = 1.0
     x0 = np.concatenate([P[:, 0], P[:, 1]])
-    bounds = [(x0[k] - trust, x0[k] + trust) for k in range(2 * n)] + [(0, None)]
+    bounds = [(x0[k] - trust, x0[k] + trust) for k in range(2 * n)] + [(0, None) if box is None else (None, None)]
     res = linprog(c, A_ub=A, b_ub=b, bounds=bounds, method="highs",
                   options={"primal_feasibility_tolerance": tol, "dual_feasibility_tolerance": tol})
     if res.status != 0:
-        return LPResult(P, side(P), res.status)
+        return LPResult(P, side(P) if box is None else math.inf, res.status)
     z = res.x
     Q = np.stack([z[:n], z[n:2 * n], th], 1)
+    if box is not None:
+        return LPResult(Q, float(z[iL]), 0)
     out = LPResult(normalize(Q), side(Q), 0)
     if want_grad:
         out.grad = _angle_gradient(z, th, pa, e, res.ineqlin.marginals, n, m)
