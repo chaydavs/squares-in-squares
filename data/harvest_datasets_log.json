@@ -1,0 +1,219 @@
+{
+ "dariushafshar/squares-in-squares-certified-packings:constructions_v1.csv": {
+  "puzzles": 146,
+  "improved": [
+   588,
+   637,
+   646,
+   650,
+   691,
+   694,
+   743,
+   797,
+   798,
+   799,
+   812,
+   856,
+   861,
+   870,
+   917,
+   926,
+   977,
+   979,
+   992,
+   996
+  ]
+ },
+ "dariushafshar/squares-in-squares-certified-packings:index_packings_dilated.csv": {
+  "puzzles": 543,
+  "improved": []
+ },
+ "dariushafshar/squares-in-squares-certified-packings:index_per_n.csv": {
+  "puzzles": 0,
+  "improved": []
+ },
+ "dariushafshar/squares-in-squares-certified-packings:packings_v1.csv": {
+  "puzzles": 1000,
+  "improved": []
+ },
+ "dariushafshar/squares-in-squares-certified-packings:per_n_v1.csv": {
+  "puzzles": 0,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:alex_merge.csv": {
+  "puzzles": 1000,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:alex_merge_details.csv": {
+  "puzzles": 0,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:alex_merge_sources.csv": {
+  "puzzles": 0,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:clipped_submission.csv": {
+  "puzzles": 543,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:contact_public_baseline.csv": {
+  "puzzles": 543,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:contact_submission.csv": {
+  "puzzles": 543,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:contact_v12.csv": {
+  "puzzles": 543,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:ensemble_public_baseline.csv": {
+  "puzzles": 545,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:ensemble_submission.csv": {
+  "puzzles": 545,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:ensemble_v13.csv": {
+  "puzzles": 543,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:fault_public_baseline.csv": {
+  "puzzles": 543,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:fault_submission.csv": {
+  "puzzles": 543,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:fault_v9_submission.csv": {
+  "puzzles": 543,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:frontier_public.csv": {
+  "puzzles": 545,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:frontier_submission.csv": {
+  "puzzles": 545,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:frontier_v14.csv": {
+  "puzzles": 545,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:geometric_v1.csv": {
+  "puzzles": 431,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:kirill_v4_patches.csv": {
+  "puzzles": 11,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:pressure_after_lp.csv": {
+  "puzzles": 545,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:pressure_dariush_per_n.csv": {
+  "puzzles": 0,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:pressure_public.csv": {
+  "puzzles": 545,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:pressure_submission.csv": {
+  "puzzles": 545,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:pressure_v16.csv": {
+  "puzzles": 545,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:rect_public_baseline.csv": {
+  "puzzles": 543,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:rect_search_baseline.csv": {
+  "puzzles": 543,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:rect_submission.csv": {
+  "puzzles": 543,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:seam_kirill_submission.csv": {
+  "puzzles": 543,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:seam_submission.csv": {
+  "puzzles": 543,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:sliding_submission.csv": {
+  "puzzles": 543,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:square_deal_v4.csv": {
+  "puzzles": 543,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:squarecraft_v1.csv": {
+  "puzzles": 462,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:submission.csv": {
+  "puzzles": 543,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:union_public.csv": {
+  "puzzles": 545,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:union_submission.csv": {
+  "puzzles": 545,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:union_v15.csv": {
+  "puzzles": 545,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:v7_submission.csv": {
+  "puzzles": 543,
+  "improved": []
+ },
+ "lightningv08/squares-in-squares-layout-atlas:v8_submission.csv": {
+  "puzzles": 543,
+  "improved": []
+ },
+ "alexchilton/squares-in-squares-starter-kit:best.csv": {
+  "puzzles": 1000,
+  "improved": []
+ },
+ "alexchilton/squares-in-squares-starter-kit:couzo.csv": {
+  "puzzles": 717,
+  "improved": []
+ },
+ "alexchilton/squares-in-squares-starter-kit:couzo_big.csv": {
+  "puzzles": 0,
+  "improved": []
+ },
+ "alexchilton/squares-in-squares-starter-kit:hop.csv": {
+  "puzzles": 114,
+  "improved": []
+ },
+ "prvsiyan/a-square-deal-frozen-public-inputs:gpu_window_v2.csv": {
+  "puzzles": 466,
+  "improved": []
+ },
+ "prvsiyan/a-square-deal-frozen-public-inputs:squarecraft_packing_audit.csv": {
+  "puzzles": 0,
+  "improved": []
+ },
+ "prvsiyan/a-square-deal-frozen-public-inputs:squarecraft_v1.csv": {
+  "puzzles": 462,
+  "improved": []
+ }
+}

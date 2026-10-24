@@ -67,14 +67,22 @@ def fetch_zip(c, ref, dest):
     return True
 
 
+ALIASES = {"square_id": ("square_id", "sid", "i", "idx", "k"), "angle": ("angle", "theta", "rot", "a")}
+
+
 def packings_from_csv(fh) -> dict[int, np.ndarray]:
     rd = csv.DictReader(io.TextIOWrapper(fh, encoding="utf-8", errors="replace"))
-    if not rd.fieldnames or not NEED.issubset(set(rd.fieldnames)):
+    if not rd.fieldnames:
+        return {}
+    cols = set(rd.fieldnames)
+    sid = next((a for a in ALIASES["square_id"] if a in cols), None)
+    ang = next((a for a in ALIASES["angle"] if a in cols), None)
+    if not ({"n", "x", "y"} <= cols and sid and ang):
         return {}
     rows: dict[int, list] = {}
     for r in rd:
         try:
-            rows.setdefault(int(r["n"]), []).append((int(r["square_id"]), float(r["x"]), float(r["y"]), float(r["angle"])))
+            rows.setdefault(int(r["n"]), []).append((int(r[sid]), float(r["x"]), float(r["y"]), float(r[ang])))
         except (ValueError, TypeError):
             continue
     out = {}
