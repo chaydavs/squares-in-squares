@@ -1,0 +1,14 @@
+submitted, ref 57581403
+{
+ "ref": 57581403,
+ "total_bytes": "30046701",
+ "date": "2026-10-24T03:50:31.410Z",
+ "description": "v2: v1 + public notebook outputs (Deotte FTMC 22.311, aqibrazadev, janiogomesribeiro) + LP polish; local 22.3056860416",
+ "file_name": "submission_v2.csv",
+ "public_score": "22.3056860415",
+ "status": "COMPLETE",
+ "submitted_by": "chaydavuluri",
+ "submitted_by_ref": "chaydavuluri",
+ "team_name": "Chay Davuluri",
+ "url": "/submissions/57581403/57581403.raw"
+}

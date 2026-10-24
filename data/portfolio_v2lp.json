@@ -1,0 +1,4002 @@
+{
+"1": {
+"side": 1.0,
+"source": "grid"
+},
+"2": {
+"side": 2.0,
+"source": "grid"
+},
+"3": {
+"side": 2.0,
+"source": "grid"
+},
+"4": {
+"side": 2.0,
+"source": "grid"
+},
+"5": {
+"side": 2.7071067811865475,
+"source": "couzo:n5.cert"
+},
+"6": {
+"side": 3.0,
+"source": "grid"
+},
+"7": {
+"side": 3.0,
+"source": "grid"
+},
+"8": {
+"side": 3.0,
+"source": "grid"
+},
+"9": {
+"side": 3.0,
+"source": "grid"
+},
+"10": {
+"side": 3.7071067811865475,
+"source": "couzo:n10.cert"
+},
+"11": {
+"side": 3.8770835900228144,
+"source": "couzo:n11.cert"
+},
+"12": {
+"side": 4.0,
+"source": "grid"
+},
+"13": {
+"side": 4.0,
+"source": "grid"
+},
+"14": {
+"side": 4.0,
+"source": "grid"
+},
+"15": {
+"side": 4.0,
+"source": "grid"
+},
+"16": {
+"side": 4.0,
+"source": "grid"
+},
+"17": {
+"side": 4.675530093604551,
+"source": "couzo:n17.cert"
+},
+"18": {
+"side": 4.822875655532295,
+"source": "couzo:n18.cert"
+},
+"19": {
+"side": 4.885618083164127,
+"source": "couzo:n19.cert"
+},
+"20": {
+"side": 5.0,
+"source": "grid"
+},
+"21": {
+"side": 5.0,
+"source": "grid"
+},
+"22": {
+"side": 5.0,
+"source": "grid"
+},
+"23": {
+"side": 5.0,
+"source": "grid"
+},
+"24": {
+"side": 5.0,
+"source": "grid"
+},
+"25": {
+"side": 5.0,
+"source": "grid"
+},
+"26": {
+"side": 5.621320343559643,
+"source": "couzo:n26.cert"
+},
+"27": {
+"side": 5.707106781186548,
+"source": "couzo:n27.cert"
+},
+"28": {
+"side": 5.824444616674059,
+"source": "couzo:n28.cert"
+},
+"29": {
+"side": 5.93383346267693,
+"source": "couzo:n29.cert"
+},
+"30": {
+"side": 6.0,
+"source": "grid"
+},
+"31": {
+"side": 6.0,
+"source": "grid"
+},
+"32": {
+"side": 6.0,
+"source": "grid"
+},
+"33": {
+"side": 6.0,
+"source": "grid"
+},
+"34": {
+"side": 6.0,
+"source": "grid"
+},
+"35": {
+"side": 6.0,
+"source": "grid"
+},
+"36": {
+"side": 6.0,
+"source": "grid"
+},
+"37": {
+"side": 6.59861960924436,
+"source": "couzo:n37.cert"
+},
+"38": {
+"side": 6.707106781186548,
+"source": "couzo:n27.cert+L1"
+},
+"39": {
+"side": 6.810722083068649,
+"source": "couzo:n39.cert"
+},
+"40": {
+"side": 6.82842712474619,
+"source": "couzo:n40.cert"
+},
+"41": {
+"side": 6.926693094468803,
+"source": "couzo:n41.cert"
+},
+"42": {
+"side": 7.0,
+"source": "grid"
+},
+"43": {
+"side": 7.0,
+"source": "grid"
+},
+"44": {
+"side": 7.0,
+"source": "grid"
+},
+"45": {
+"side": 7.0,
+"source": "grid"
+},
+"46": {
+"side": 7.0,
+"source": "grid"
+},
+"47": {
+"side": 7.0,
+"source": "grid"
+},
+"48": {
+"side": 7.0,
+"source": "grid"
+},
+"49": {
+"side": 7.0,
+"source": "grid"
+},
+"50": {
+"side": 7.571428571428571,
+"source": "couzo:n50.cert"
+},
+"51": {
+"side": 7.6903559372884915,
+"source": "couzo:n51.cert"
+},
+"52": {
+"side": 7.707106781186548,
+"source": "couzo:n52.cert"
+},
+"53": {
+"side": 7.822875655532296,
+"source": "couzo:n53.cert"
+},
+"54": {
+"side": 7.84666719284349,
+"source": "couzo:n54.cert"
+},
+"55": {
+"side": 7.945771007503913,
+"source": "couzo:n55.cert"
+},
+"56": {
+"side": 8.0,
+"source": "grid"
+},
+"57": {
+"side": 8.0,
+"source": "grid"
+},
+"58": {
+"side": 8.0,
+"source": "grid"
+},
+"59": {
+"side": 8.0,
+"source": "grid"
+},
+"60": {
+"side": 8.0,
+"source": "grid"
+},
+"61": {
+"side": 8.0,
+"source": "grid"
+},
+"62": {
+"side": 8.0,
+"source": "grid"
+},
+"63": {
+"side": 8.0,
+"source": "grid"
+},
+"64": {
+"side": 8.0,
+"source": "grid"
+},
+"65": {
+"side": 8.535533905932738,
+"source": "couzo:n65.cert"
+},
+"66": {
+"side": 8.65685424949238,
+"source": "couzo:n66.cert"
+},
+"67": {
+"side": 8.707106781186548,
+"source": "couzo:n52.cert+L1"
+},
+"68": {
+"side": 8.798795237218284,
+"source": "couzo:n68.cert"
+},
+"69": {
+"side": 8.82719465572974,
+"source": "couzo:n69.cert"
+},
+"70": {
+"side": 8.880960371555581,
+"source": "couzo:n70.cert"
+},
+"71": {
+"side": 8.944071557570316,
+"source": "couzo:n71.cert"
+},
+"72": {
+"side": 9.0,
+"source": "grid"
+},
+"73": {
+"side": 9.0,
+"source": "grid"
+},
+"74": {
+"side": 9.0,
+"source": "grid"
+},
+"75": {
+"side": 9.0,
+"source": "grid"
+},
+"76": {
+"side": 9.0,
+"source": "grid"
+},
+"77": {
+"side": 9.0,
+"source": "grid"
+},
+"78": {
+"side": 9.0,
+"source": "grid"
+},
+"79": {
+"side": 9.0,
+"source": "grid"
+},
+"80": {
+"side": 9.0,
+"source": "grid"
+},
+"81": {
+"side": 9.0,
+"source": "grid"
+},
+"82": {
+"side": 9.535533905932738,
+"source": "couzo:n65.cert+L1"
+},
+"83": {
+"side": 9.634757648631082,
+"source": "couzo:n83.cert"
+},
+"84": {
+"side": 9.697934799014922,
+"source": "couzo:n84.cert"
+},
+"85": {
+"side": 9.742640687119286,
+"source": "couzo:n85.cert"
+},
+"86": {
+"side": 9.820535407496742,
+"source": "couzo:n86.cert"
+},
+"87": {
+"side": 9.838815269948261,
+"source": "couzo:n87.cert"
+},
+"88": {
+"side": 9.882451030481247,
+"source": "couzo:n88.cert"
+},
+"89": {
+"side": 9.949747468305832,
+"source": "couzo:n89.cert"
+},
+"90": {
+"side": 10.0,
+"source": "grid"
+},
+"91": {
+"side": 10.0,
+"source": "grid"
+},
+"92": {
+"side": 10.0,
+"source": "grid"
+},
+"93": {
+"side": 10.0,
+"source": "grid"
+},
+"94": {
+"side": 10.0,
+"source": "grid"
+},
+"95": {
+"side": 10.0,
+"source": "grid"
+},
+"96": {
+"side": 10.0,
+"source": "grid"
+},
+"97": {
+"side": 10.0,
+"source": "grid"
+},
+"98": {
+"side": 10.0,
+"source": "grid"
+},
+"99": {
+"side": 10.0,
+"source": "grid"
+},
+"100": {
+"side": 10.0,
+"source": "grid"
+},
+"101": {
+"side": 10.535533905932738,
+"source": "couzo:n101.cert"
+},
+"102": {
+"side": 10.605828696431578,
+"source": "couzo:n102.cert"
+},
+"103": {
+"side": 10.679232047361307,
+"source": "couzo:n103.cert"
+},
+"104": {
+"side": 10.707106781186548,
+"source": "couzo:n104.cert"
+},
+"105": {
+"side": 10.789303783742975,
+"source": "couzo:n105.cert"
+},
+"106": {
+"side": 10.822908044132847,
+"source": "couzo:n106.cert"
+},
+"107": {
+"side": 10.84666719284349,
+"source": "couzo:n107.cert"
+},
+"108": {
+"side": 10.904821012320356,
+"source": "couzo:n108.cert"
+},
+"109": {
+"side": 10.949747468305832,
+"source": "couzo:n109.cert"
+},
+"110": {
+"side": 10.996783396631592,
+"source": "couzo:n110.cert"
+},
+"111": {
+"side": 11.0,
+"source": "grid"
+},
+"112": {
+"side": 11.0,
+"source": "grid"
+},
+"113": {
+"side": 11.0,
+"source": "grid"
+},
+"114": {
+"side": 11.0,
+"source": "grid"
+},
+"115": {
+"side": 11.0,
+"source": "grid"
+},
+"116": {
+"side": 11.0,
+"source": "grid"
+},
+"117": {
+"side": 11.0,
+"source": "grid"
+},
+"118": {
+"side": 11.0,
+"source": "grid"
+},
+"119": {
+"side": 11.0,
+"source": "grid"
+},
+"120": {
+"side": 11.0,
+"source": "grid"
+},
+"121": {
+"side": 11.0,
+"source": "grid"
+},
+"122": {
+"side": 11.535533905932738,
+"source": "couzo:n101.cert+L1"
+},
+"123": {
+"side": 11.591378145497698,
+"source": "couzo:n123.cert"
+},
+"124": {
+"side": 11.65685424949238,
+"source": "couzo:n124.cert"
+},
+"125": {
+"side": 11.707106781186548,
+"source": "couzo:n104.cert+L1"
+},
+"126": {
+"side": 11.742640687119286,
+"source": "couzo:n126.cert"
+},
+"127": {
+"side": 11.81087878758918,
+"source": "couzo:n127.cert"
+},
+"128": {
+"side": 11.825091968213687,
+"source": "couzo:n128.cert"
+},
+"129": {
+"side": 11.870013850404465,
+"source": "couzo:n129.cert"
+},
+"130": {
+"side": 11.904483032515786,
+"source": "couzo:n130.cert"
+},
+"131": {
+"side": 11.94965958803586,
+"source": "couzo:n131.cert"
+},
+"132": {
+"side": 11.98568019884581,
+"source": "couzo:n132.cert"
+},
+"133": {
+"side": 12.0,
+"source": "grid"
+},
+"134": {
+"side": 12.0,
+"source": "grid"
+},
+"135": {
+"side": 12.0,
+"source": "grid"
+},
+"136": {
+"side": 12.0,
+"source": "grid"
+},
+"137": {
+"side": 12.0,
+"source": "grid"
+},
+"138": {
+"side": 12.0,
+"source": "grid"
+},
+"139": {
+"side": 12.0,
+"source": "grid"
+},
+"140": {
+"side": 12.0,
+"source": "grid"
+},
+"141": {
+"side": 12.0,
+"source": "grid"
+},
+"142": {
+"side": 12.0,
+"source": "grid"
+},
+"143": {
+"side": 12.0,
+"source": "grid"
+},
+"144": {
+"side": 12.0,
+"source": "grid"
+},
+"145": {
+"side": 12.535533905932738,
+"source": "couzo:n101.cert+L2"
+},
+"146": {
+"side": 12.58378219015186,
+"source": "couzo:n146.cert"
+},
+"147": {
+"side": 12.65685424949238,
+"source": "couzo:n124.cert+L1"
+},
+"148": {
+"side": 12.65685424949238,
+"source": "couzo:n148.cert"
+},
+"149": {
+"side": 12.707106781186548,
+"source": "couzo:n149.cert"
+},
+"150": {
+"side": 12.778174593052023,
+"source": "couzo:n150.cert"
+},
+"151": {
+"side": 12.822875655532295,
+"source": "couzo:n151.cert"
+},
+"152": {
+"side": 12.83071880097661,
+"source": "couzo:n152.cert"
+},
+"153": {
+"side": 12.870013850404465,
+"source": "couzo:n153.cert"
+},
+"154": {
+"side": 12.921100940761681,
+"source": "couzo:n154.cert"
+},
+"155": {
+"side": 12.952260944650565,
+"source": "couzo:n155.cert"
+},
+"156": {
+"side": 12.979165853834276,
+"source": "couzo:n156.cert"
+},
+"157": {
+"side": 13.0,
+"source": "grid"
+},
+"158": {
+"side": 13.0,
+"source": "grid"
+},
+"159": {
+"side": 13.0,
+"source": "grid"
+},
+"160": {
+"side": 13.0,
+"source": "grid"
+},
+"161": {
+"side": 13.0,
+"source": "grid"
+},
+"162": {
+"side": 13.0,
+"source": "grid"
+},
+"163": {
+"side": 13.0,
+"source": "grid"
+},
+"164": {
+"side": 13.0,
+"source": "grid"
+},
+"165": {
+"side": 13.0,
+"source": "grid"
+},
+"166": {
+"side": 13.0,
+"source": "grid"
+},
+"167": {
+"side": 13.0,
+"source": "grid"
+},
+"168": {
+"side": 13.0,
+"source": "grid"
+},
+"169": {
+"side": 13.0,
+"source": "grid"
+},
+"170": {
+"side": 13.535533905932738,
+"source": "couzo:n101.cert+L3"
+},
+"171": {
+"side": 13.571428571428571,
+"source": "couzo:n171.cert"
+},
+"172": {
+"side": 13.618988956899399,
+"source": "couzo:n172.cert"
+},
+"173": {
+"side": 13.65685424949238,
+"source": "couzo:n148.cert+L1"
+},
+"174": {
+"side": 13.707106781186548,
+"source": "couzo:n149.cert+L1"
+},
+"175": {
+"side": 13.764174317486596,
+"source": "couzo:n175.cert"
+},
+"176": {
+"side": 13.795872318436407,
+"source": "couzo:n176.cert"
+},
+"177": {
+"side": 13.822979734169449,
+"source": "couzo:n177.cert"
+},
+"178": {
+"side": 13.84666719284349,
+"source": "couzo:n178.cert"
+},
+"179": {
+"side": 13.883795490510899,
+"source": "couzo:n179.cert"
+},
+"180": {
+"side": 13.916993522477833,
+"source": "couzo:n180.cert"
+},
+"181": {
+"side": 13.950819531022924,
+"source": "couzo:n181.cert"
+},
+"182": {
+"side": 13.97409071312144,
+"source": "couzo:n182.cert"
+},
+"183": {
+"side": 13.999580178736252,
+"source": "couzo:n183.cert"
+},
+"184": {
+"side": 14.0,
+"source": "grid"
+},
+"185": {
+"side": 14.0,
+"source": "grid"
+},
+"186": {
+"side": 14.0,
+"source": "grid"
+},
+"187": {
+"side": 14.0,
+"source": "grid"
+},
+"188": {
+"side": 14.0,
+"source": "grid"
+},
+"189": {
+"side": 14.0,
+"source": "grid"
+},
+"190": {
+"side": 14.0,
+"source": "grid"
+},
+"191": {
+"side": 14.0,
+"source": "grid"
+},
+"192": {
+"side": 14.0,
+"source": "grid"
+},
+"193": {
+"side": 14.0,
+"source": "grid"
+},
+"194": {
+"side": 14.0,
+"source": "grid"
+},
+"195": {
+"side": 14.0,
+"source": "grid"
+},
+"196": {
+"side": 14.0,
+"source": "grid"
+},
+"197": {
+"side": 14.535533905932738,
+"source": "couzo:n101.cert+L4"
+},
+"198": {
+"side": 14.571428571428571,
+"source": "couzo:n171.cert+L1"
+},
+"199": {
+"side": 14.617572173592807,
+"source": "couzo:n199.cert"
+},
+"200": {
+"side": 14.65685424949238,
+"source": "couzo:n148.cert+L2"
+},
+"201": {
+"side": 14.707106781186548,
+"source": "couzo:n149.cert+L2"
+},
+"202": {
+"side": 14.727922061357855,
+"source": "couzo:n202.cert"
+},
+"203": {
+"side": 14.778174593052023,
+"source": "couzo:n203.cert"
+},
+"204": {
+"side": 14.80864283051695,
+"source": "couzo:n204.cert"
+},
+"205": {
+"side": 14.824451146124089,
+"source": "couzo:n205.cert"
+},
+"206": {
+"side": 14.860158663391903,
+"source": "couzo:n206.cert"
+},
+"207": {
+"side": 14.88096037155558,
+"source": "couzo:n207.cert"
+},
+"208": {
+"side": 14.924518772029355,
+"source": "couzo:n208.cert"
+},
+"209": {
+"side": 14.94622322644645,
+"source": "couzo:n209.cert"
+},
+"210": {
+"side": 14.973001116587625,
+"source": "couzo:n210.cert"
+},
+"211": {
+"side": 14.993549626299421,
+"source": "couzo:n211.cert"
+},
+"212": {
+"side": 15.0,
+"source": "grid"
+},
+"213": {
+"side": 15.0,
+"source": "grid"
+},
+"214": {
+"side": 15.0,
+"source": "grid"
+},
+"215": {
+"side": 15.0,
+"source": "grid"
+},
+"216": {
+"side": 15.0,
+"source": "grid"
+},
+"217": {
+"side": 15.0,
+"source": "grid"
+},
+"218": {
+"side": 15.0,
+"source": "grid"
+},
+"219": {
+"side": 15.0,
+"source": "grid"
+},
+"220": {
+"side": 15.0,
+"source": "grid"
+},
+"221": {
+"side": 15.0,
+"source": "grid"
+},
+"222": {
+"side": 15.0,
+"source": "grid"
+},
+"223": {
+"side": 15.0,
+"source": "grid"
+},
+"224": {
+"side": 15.0,
+"source": "grid"
+},
+"225": {
+"side": 15.0,
+"source": "grid"
+},
+"226": {
+"side": 15.535533905932738,
+"source": "couzo:n101.cert+L5"
+},
+"227": {
+"side": 15.56362565232515,
+"source": "couzo:n227.cert"
+},
+"228": {
+"side": 15.604601475729675,
+"source": "couzo:n228.cert"
+},
+"229": {
+"side": 15.650161513876432,
+"source": "couzo:n229.cert"
+},
+"230": {
+"side": 15.682926829268293,
+"source": "couzo:n230.cert"
+},
+"231": {
+"side": 15.707106781186548,
+"source": "couzo:n231.cert"
+},
+"232": {
+"side": 15.764174317486596,
+"source": "couzo:n232.cert"
+},
+"233": {
+"side": 15.778174593052023,
+"source": "couzo:n233.cert"
+},
+"234": {
+"side": 15.822875655532297,
+"source": "couzo:n234.cert"
+},
+"235": {
+"side": 15.826605633428567,
+"source": "couzo:n235.cert"
+},
+"236": {
+"side": 15.861934390607358,
+"source": "couzo:n236.cert"
+},
+"237": {
+"side": 15.902603638259597,
+"source": "couzo:n237.cert"
+},
+"238": {
+"side": 15.924106785321495,
+"source": "couzo:n238.cert"
+},
+"239": {
+"side": 15.9484433273005,
+"source": "couzo:n239.cert"
+},
+"240": {
+"side": 15.96968533753078,
+"source": "couzo:n240.cert"
+},
+"241": {
+"side": 15.98711709515024,
+"source": "couzo:n241.cert"
+},
+"242": {
+"side": 16.0,
+"source": "grid"
+},
+"243": {
+"side": 16.0,
+"source": "grid"
+},
+"244": {
+"side": 16.0,
+"source": "grid"
+},
+"245": {
+"side": 16.0,
+"source": "grid"
+},
+"246": {
+"side": 16.0,
+"source": "grid"
+},
+"247": {
+"side": 16.0,
+"source": "grid"
+},
+"248": {
+"side": 16.0,
+"source": "grid"
+},
+"249": {
+"side": 16.0,
+"source": "grid"
+},
+"250": {
+"side": 16.0,
+"source": "grid"
+},
+"251": {
+"side": 16.0,
+"source": "grid"
+},
+"252": {
+"side": 16.0,
+"source": "grid"
+},
+"253": {
+"side": 16.0,
+"source": "grid"
+},
+"254": {
+"side": 16.0,
+"source": "grid"
+},
+"255": {
+"side": 16.0,
+"source": "grid"
+},
+"256": {
+"side": 16.0,
+"source": "grid"
+},
+"257": {
+"side": 16.535533905932738,
+"source": "couzo:n101.cert+L6"
+},
+"258": {
+"side": 16.56344800213379,
+"source": "couzo:n258.cert"
+},
+"259": {
+"side": 16.5913781454977,
+"source": "couzo:n259.cert"
+},
+"260": {
+"side": 16.645753250519814,
+"source": "couzo:n260.cert"
+},
+"261": {
+"side": 16.67877987534291,
+"source": "couzo:n261.cert"
+},
+"262": {
+"side": 16.707106781186546,
+"source": "couzo:n231.cert+L1"
+},
+"263": {
+"side": 16.733166007899378,
+"source": "couzo:n263.cert"
+},
+"264": {
+"side": 16.774735132387832,
+"source": "couzo:n264.cert"
+},
+"265": {
+"side": 16.77817459305202,
+"source": "couzo:n265.cert"
+},
+"266": {
+"side": 16.823028750756475,
+"source": "couzo:n266.cert"
+},
+"267": {
+"side": 16.838815269948263,
+"source": "couzo:n267.cert"
+},
+"268": {
+"side": 16.874361715873825,
+"source": "couzo:n268.cert"
+},
+"269": {
+"side": 16.901513582189132,
+"source": "couzo:n269.cert"
+},
+"270": {
+"side": 16.92816225219675,
+"source": "couzo:n270.cert"
+},
+"271": {
+"side": 16.94894773371366,
+"source": "couzo:n271.cert"
+},
+"272": {
+"side": 16.96558647483767,
+"source": "couzo:n272.cert"
+},
+"273": {
+"side": 16.983925962650403,
+"source": "couzo:n273.cert"
+},
+"274": {
+"side": 17.0,
+"source": "grid"
+},
+"275": {
+"side": 17.0,
+"source": "grid"
+},
+"276": {
+"side": 17.0,
+"source": "grid"
+},
+"277": {
+"side": 17.0,
+"source": "grid"
+},
+"278": {
+"side": 17.0,
+"source": "grid"
+},
+"279": {
+"side": 17.0,
+"source": "grid"
+},
+"280": {
+"side": 17.0,
+"source": "grid"
+},
+"281": {
+"side": 17.0,
+"source": "grid"
+},
+"282": {
+"side": 17.0,
+"source": "grid"
+},
+"283": {
+"side": 17.0,
+"source": "grid"
+},
+"284": {
+"side": 17.0,
+"source": "grid"
+},
+"285": {
+"side": 17.0,
+"source": "grid"
+},
+"286": {
+"side": 17.0,
+"source": "grid"
+},
+"287": {
+"side": 17.0,
+"source": "grid"
+},
+"288": {
+"side": 17.0,
+"source": "grid"
+},
+"289": {
+"side": 17.0,
+"source": "grid"
+},
+"290": {
+"side": 17.535533905932738,
+"source": "couzo:n101.cert+L7"
+},
+"291": {
+"side": 17.535533905932738,
+"source": "couzo:n291.cert"
+},
+"292": {
+"side": 17.5913781454977,
+"source": "couzo:n259.cert+L1"
+},
+"293": {
+"side": 17.634146341463413,
+"source": "couzo:n293.cert"
+},
+"294": {
+"side": 17.65685424949238,
+"source": "couzo:n294.cert"
+},
+"295": {
+"side": 17.70423279073603,
+"source": "couzo:n295.cert"
+},
+"296": {
+"side": 17.707106781186546,
+"source": "couzo:n296.cert"
+},
+"297": {
+"side": 17.740417287543803,
+"source": "couzo:n297.cert"
+},
+"298": {
+"side": 17.77817459305202,
+"source": "couzo:n265.cert+L1"
+},
+"299": {
+"side": 17.822875655532297,
+"source": "couzo:n299.cert"
+},
+"300": {
+"side": 17.824123388478544,
+"source": "couzo:n300.cert"
+},
+"301": {
+"side": 17.84666719284349,
+"source": "couzo:n301.cert"
+},
+"302": {
+"side": 17.870013850404465,
+"source": "couzo:n302.cert"
+},
+"303": {
+"side": 17.9069782337989,
+"source": "couzo:n303.cert"
+},
+"304": {
+"side": 17.926898901532223,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"305": {
+"side": 17.950466482137713,
+"source": "couzo:n305.cert"
+},
+"306": {
+"side": 17.963433717491426,
+"source": "couzo:n306.cert"
+},
+"307": {
+"side": 17.980862784054693,
+"source": "couzo:n307.cert"
+},
+"308": {
+"side": 17.997149121270912,
+"source": "couzo:n308.cert"
+},
+"309": {
+"side": 18.0,
+"source": "grid"
+},
+"310": {
+"side": 18.0,
+"source": "grid"
+},
+"311": {
+"side": 18.0,
+"source": "grid"
+},
+"312": {
+"side": 18.0,
+"source": "grid"
+},
+"313": {
+"side": 18.0,
+"source": "grid"
+},
+"314": {
+"side": 18.0,
+"source": "grid"
+},
+"315": {
+"side": 18.0,
+"source": "grid"
+},
+"316": {
+"side": 18.0,
+"source": "grid"
+},
+"317": {
+"side": 18.0,
+"source": "grid"
+},
+"318": {
+"side": 18.0,
+"source": "grid"
+},
+"319": {
+"side": 18.0,
+"source": "grid"
+},
+"320": {
+"side": 18.0,
+"source": "grid"
+},
+"321": {
+"side": 18.0,
+"source": "grid"
+},
+"322": {
+"side": 18.0,
+"source": "grid"
+},
+"323": {
+"side": 18.0,
+"source": "grid"
+},
+"324": {
+"side": 18.0,
+"source": "grid"
+},
+"325": {
+"side": 18.535533905932738,
+"source": "couzo:n101.cert+L8"
+},
+"326": {
+"side": 18.535533905932738,
+"source": "couzo:n291.cert+L1"
+},
+"327": {
+"side": 18.58378219108696,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"328": {
+"side": 18.614368938494597,
+"source": "couzo:n328.cert"
+},
+"329": {
+"side": 18.65685424949238,
+"source": "couzo:n294.cert+L1"
+},
+"330": {
+"side": 18.692388156132942,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"331": {
+"side": 18.707106781186546,
+"source": "couzo:n296.cert+L1"
+},
+"332": {
+"side": 18.740417287543803,
+"source": "couzo:n297.cert+L1"
+},
+"333": {
+"side": 18.774735132398767,
+"source": "couzo:n333.cert"
+},
+"334": {
+"side": 18.79569373722021,
+"source": "couzo:n334.cert+lp"
+},
+"335": {
+"side": 18.822875655536127,
+"source": "couzo:n335.cert"
+},
+"336": {
+"side": 18.82557149986167,
+"source": "couzo:n336.cert"
+},
+"337": {
+"side": 18.858391767636228,
+"source": "couzo:n337.cert"
+},
+"338": {
+"side": 18.886151100799257,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"339": {
+"side": 18.90735147116025,
+"source": "couzo:n339.cert"
+},
+"340": {
+"side": 18.926898901280953,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"341": {
+"side": 18.951882408719946,
+"source": "couzo:n341.cert"
+},
+"342": {
+"side": 18.96470672316728,
+"source": "couzo:n342.cert"
+},
+"343": {
+"side": 18.977171584757436,
+"source": "couzo:n343.cert"
+},
+"344": {
+"side": 18.992727809346267,
+"source": "couzo:n344.cert"
+},
+"345": {
+"side": 19.0,
+"source": "grid"
+},
+"346": {
+"side": 19.0,
+"source": "grid"
+},
+"347": {
+"side": 19.0,
+"source": "grid"
+},
+"348": {
+"side": 19.0,
+"source": "grid"
+},
+"349": {
+"side": 19.0,
+"source": "grid"
+},
+"350": {
+"side": 19.0,
+"source": "grid"
+},
+"351": {
+"side": 19.0,
+"source": "grid"
+},
+"352": {
+"side": 19.0,
+"source": "grid"
+},
+"353": {
+"side": 19.0,
+"source": "grid"
+},
+"354": {
+"side": 19.0,
+"source": "grid"
+},
+"355": {
+"side": 19.0,
+"source": "grid"
+},
+"356": {
+"side": 19.0,
+"source": "grid"
+},
+"357": {
+"side": 19.0,
+"source": "grid"
+},
+"358": {
+"side": 19.0,
+"source": "grid"
+},
+"359": {
+"side": 19.0,
+"source": "grid"
+},
+"360": {
+"side": 19.0,
+"source": "grid"
+},
+"361": {
+"side": 19.0,
+"source": "grid"
+},
+"362": {
+"side": 19.535533905932738,
+"source": "couzo:n101.cert+L9"
+},
+"363": {
+"side": 19.535533905932738,
+"source": "couzo:n291.cert+L2"
+},
+"364": {
+"side": 19.571428572302867,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"365": {
+"side": 19.614368938494597,
+"source": "couzo:n328.cert+L1"
+},
+"366": {
+"side": 19.65685424949238,
+"source": "couzo:n294.cert+L2"
+},
+"367": {
+"side": 19.692388155443812,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"368": {
+"side": 19.692388155443812,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"369": {
+"side": 19.707106781186546,
+"source": "couzo:n369.cert"
+},
+"370": {
+"side": 19.764174317498217,
+"source": "couzo:n370.cert"
+},
+"371": {
+"side": 19.778174593057464,
+"source": "couzo:n371.cert"
+},
+"372": {
+"side": 19.806121984665666,
+"source": "couzo:n372.cert+lp"
+},
+"373": {
+"side": 19.823062082837804,
+"source": "couzo:n373.cert"
+},
+"374": {
+"side": 19.83235621703276,
+"source": "couzo:n374.cert"
+},
+"375": {
+"side": 19.870013850409524,
+"source": "couzo:n375.cert"
+},
+"376": {
+"side": 19.888821861514643,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"377": {
+"side": 19.909958292677253,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"378": {
+"side": 19.92689890196772,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"379": {
+"side": 19.95088968148402,
+"source": "couzo:n379.cert"
+},
+"380": {
+"side": 19.961350023815985,
+"source": "couzo:n380.cert"
+},
+"381": {
+"side": 19.974739840478158,
+"source": "couzo:n381.cert"
+},
+"382": {
+"side": 19.987621153965513,
+"source": "couzo:n382.cert"
+},
+"383": {
+"side": 20.0,
+"source": "grid"
+},
+"384": {
+"side": 20.0,
+"source": "grid"
+},
+"385": {
+"side": 20.0,
+"source": "grid"
+},
+"386": {
+"side": 20.0,
+"source": "grid"
+},
+"387": {
+"side": 20.0,
+"source": "grid"
+},
+"388": {
+"side": 20.0,
+"source": "grid"
+},
+"389": {
+"side": 20.0,
+"source": "grid"
+},
+"390": {
+"side": 20.0,
+"source": "grid"
+},
+"391": {
+"side": 20.0,
+"source": "grid"
+},
+"392": {
+"side": 20.0,
+"source": "grid"
+},
+"393": {
+"side": 20.0,
+"source": "grid"
+},
+"394": {
+"side": 20.0,
+"source": "grid"
+},
+"395": {
+"side": 20.0,
+"source": "grid"
+},
+"396": {
+"side": 20.0,
+"source": "grid"
+},
+"397": {
+"side": 20.0,
+"source": "grid"
+},
+"398": {
+"side": 20.0,
+"source": "grid"
+},
+"399": {
+"side": 20.0,
+"source": "grid"
+},
+"400": {
+"side": 20.0,
+"source": "grid"
+},
+"401": {
+"side": 20.535533905932738,
+"source": "couzo:n101.cert+L10"
+},
+"402": {
+"side": 20.535533905932738,
+"source": "couzo:n291.cert+L3"
+},
+"403": {
+"side": 20.571428571433902,
+"source": "couzo:n403.cert"
+},
+"404": {
+"side": 20.591378146101405,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"405": {
+"side": 20.645753252823575,
+"source": "couzo:n405.cert+lp"
+},
+"406": {
+"side": 20.656854249512037,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"407": {
+"side": 20.692388155444814,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"408": {
+"side": 20.707106781186546,
+"source": "couzo:n369.cert+L1"
+},
+"409": {
+"side": 20.74041728833352,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"410": {
+"side": 20.77473513239274,
+"source": "couzo:n410.cert"
+},
+"411": {
+"side": 20.795693774173486,
+"source": "couzo:n411.cert+lp"
+},
+"412": {
+"side": 20.822878556794116,
+"source": "couzo:n412.cert"
+},
+"413": {
+"side": 20.824764036620834,
+"source": "couzo:n413.cert+lp"
+},
+"414": {
+"side": 20.840687358089035,
+"source": "couzo:n414.cert"
+},
+"415": {
+"side": 20.86953443840683,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"416": {
+"side": 20.88783199726904,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"417": {
+"side": 20.905465884468583,
+"source": "couzo:n417.cert+lp"
+},
+"418": {
+"side": 20.92941544973279,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"419": {
+"side": 20.949984995010887,
+"source": "couzo:n419.cert+lp"
+},
+"420": {
+"side": 20.966577898707975,
+"source": "couzo:n420.cert"
+},
+"421": {
+"side": 20.976273997912237,
+"source": "couzo:n421.cert"
+},
+"422": {
+"side": 20.983570193584338,
+"source": "couzo:n422.cert"
+},
+"423": {
+"side": 20.99653572075225,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"424": {
+"side": 21.0,
+"source": "grid"
+},
+"425": {
+"side": 21.0,
+"source": "grid"
+},
+"426": {
+"side": 21.0,
+"source": "grid"
+},
+"427": {
+"side": 21.0,
+"source": "grid"
+},
+"428": {
+"side": 21.0,
+"source": "grid"
+},
+"429": {
+"side": 21.0,
+"source": "grid"
+},
+"430": {
+"side": 21.0,
+"source": "grid"
+},
+"431": {
+"side": 21.0,
+"source": "grid"
+},
+"432": {
+"side": 21.0,
+"source": "grid"
+},
+"433": {
+"side": 21.0,
+"source": "grid"
+},
+"434": {
+"side": 21.0,
+"source": "grid"
+},
+"435": {
+"side": 21.0,
+"source": "grid"
+},
+"436": {
+"side": 21.0,
+"source": "grid"
+},
+"437": {
+"side": 21.0,
+"source": "grid"
+},
+"438": {
+"side": 21.0,
+"source": "grid"
+},
+"439": {
+"side": 21.0,
+"source": "grid"
+},
+"440": {
+"side": 21.0,
+"source": "grid"
+},
+"441": {
+"side": 21.0,
+"source": "grid"
+},
+"442": {
+"side": 21.535533905932738,
+"source": "couzo:n101.cert+L11"
+},
+"443": {
+"side": 21.535533905932738,
+"source": "couzo:n291.cert+L4"
+},
+"444": {
+"side": 21.571428571433902,
+"source": "couzo:n403.cert+L1"
+},
+"445": {
+"side": 21.591378145909594,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"446": {
+"side": 21.645753251345763,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"447": {
+"side": 21.656854249505095,
+"source": "couzo:n447.cert"
+},
+"448": {
+"side": 21.69238815544581,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"449": {
+"side": 21.707106781186546,
+"source": "couzo:n369.cert+L2"
+},
+"450": {
+"side": 21.733166008314107,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"451": {
+"side": 21.756097562995716,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"452": {
+"side": 21.778174593057102,
+"source": "couzo:n452.cert"
+},
+"453": {
+"side": 21.808663234397326,
+"source": "couzo:n453.cert"
+},
+"454": {
+"side": 21.82310265711579,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"455": {
+"side": 21.82506149653376,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"456": {
+"side": 21.85709845301181,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"457": {
+"side": 21.868100703724462,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"458": {
+"side": 21.88991375962777,
+"source": "couzo:n458.cert"
+},
+"459": {
+"side": 21.905182432783075,
+"source": "couzo:n459.cert"
+},
+"460": {
+"side": 21.926108361070035,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"461": {
+"side": 21.936369239853086,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"462": {
+"side": 21.965358248122662,
+"source": "couzo:n462.cert"
+},
+"463": {
+"side": 21.97020028901984,
+"source": "couzo:n463.cert"
+},
+"464": {
+"side": 21.986268532626838,
+"source": "couzo:n464.cert"
+},
+"465": {
+"side": 21.995164910047055,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"466": {
+"side": 22.0,
+"source": "grid"
+},
+"467": {
+"side": 22.0,
+"source": "grid"
+},
+"468": {
+"side": 22.0,
+"source": "grid"
+},
+"469": {
+"side": 22.0,
+"source": "grid"
+},
+"470": {
+"side": 22.0,
+"source": "grid"
+},
+"471": {
+"side": 22.0,
+"source": "grid"
+},
+"472": {
+"side": 22.0,
+"source": "grid"
+},
+"473": {
+"side": 22.0,
+"source": "grid"
+},
+"474": {
+"side": 22.0,
+"source": "grid"
+},
+"475": {
+"side": 22.0,
+"source": "grid"
+},
+"476": {
+"side": 22.0,
+"source": "grid"
+},
+"477": {
+"side": 22.0,
+"source": "grid"
+},
+"478": {
+"side": 22.0,
+"source": "grid"
+},
+"479": {
+"side": 22.0,
+"source": "grid"
+},
+"480": {
+"side": 22.0,
+"source": "grid"
+},
+"481": {
+"side": 22.0,
+"source": "grid"
+},
+"482": {
+"side": 22.0,
+"source": "grid"
+},
+"483": {
+"side": 22.0,
+"source": "grid"
+},
+"484": {
+"side": 22.0,
+"source": "grid"
+},
+"485": {
+"side": 22.535533905932738,
+"source": "couzo:n101.cert+L12"
+},
+"486": {
+"side": 22.535533905932738,
+"source": "couzo:n291.cert+L5"
+},
+"487": {
+"side": 22.571428571433902,
+"source": "couzo:n403.cert+L2"
+},
+"488": {
+"side": 22.591378145919595,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"489": {
+"side": 22.606601717798213,
+"source": "gobel-square:a=11,b=15"
+},
+"490": {
+"side": 22.65685424949704,
+"source": "couzo:n490.cert"
+},
+"491": {
+"side": 22.69238815544759,
+"source": "couzo:n368.cert+L3"
+},
+"492": {
+"side": 22.707106781186546,
+"source": "couzo:n369.cert+L3"
+},
+"493": {
+"side": 22.707106781186546,
+"source": "gobel-strip:a=21"
+},
+"494": {
+"side": 22.737532875218587,
+"source": "couzo:n494.cert"
+},
+"495": {
+"side": 22.769318733732785,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"496": {
+"side": 22.781136539448568,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"497": {
+"side": 22.80243092320697,
+"source": "couzo:n497.cert+lp"
+},
+"498": {
+"side": 22.824047237398513,
+"source": "couzo:n498.cert+lp"
+},
+"499": {
+"side": 22.829299843397266,
+"source": "couzo:n499.cert"
+},
+"500": {
+"side": 22.854552188986478,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"501": {
+"side": 22.867803120345656,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"502": {
+"side": 22.89235684002425,
+"source": "couzo:n502.cert+lp"
+},
+"503": {
+"side": 22.899947525473365,
+"source": "couzo:n503.cert+lp"
+},
+"504": {
+"side": 22.922814867687535,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"505": {
+"side": 22.93922489119216,
+"source": "couzo:n505.cert+lp"
+},
+"506": {
+"side": 22.953204892555846,
+"source": "couzo:n506.cert+lp"
+},
+"507": {
+"side": 22.973697163640818,
+"source": "couzo:n507.cert"
+},
+"508": {
+"side": 22.982358278345792,
+"source": "couzo:n508.cert+lp"
+},
+"509": {
+"side": 22.990768475274788,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"510": {
+"side": 23.0,
+"source": "grid"
+},
+"511": {
+"side": 23.0,
+"source": "grid"
+},
+"512": {
+"side": 23.0,
+"source": "grid"
+},
+"513": {
+"side": 23.0,
+"source": "grid"
+},
+"514": {
+"side": 23.0,
+"source": "grid"
+},
+"515": {
+"side": 23.0,
+"source": "grid"
+},
+"516": {
+"side": 23.0,
+"source": "grid"
+},
+"517": {
+"side": 23.0,
+"source": "grid"
+},
+"518": {
+"side": 23.0,
+"source": "grid"
+},
+"519": {
+"side": 23.0,
+"source": "grid"
+},
+"520": {
+"side": 23.0,
+"source": "grid"
+},
+"521": {
+"side": 23.0,
+"source": "grid"
+},
+"522": {
+"side": 23.0,
+"source": "grid"
+},
+"523": {
+"side": 23.0,
+"source": "grid"
+},
+"524": {
+"side": 23.0,
+"source": "grid"
+},
+"525": {
+"side": 23.0,
+"source": "grid"
+},
+"526": {
+"side": 23.0,
+"source": "grid"
+},
+"527": {
+"side": 23.0,
+"source": "grid"
+},
+"528": {
+"side": 23.0,
+"source": "grid"
+},
+"529": {
+"side": 23.0,
+"source": "grid"
+},
+"530": {
+"side": 23.535533905932738,
+"source": "couzo:n101.cert+L13"
+},
+"531": {
+"side": 23.535533905932738,
+"source": "couzo:n291.cert+L6"
+},
+"532": {
+"side": 23.569769399320148,
+"source": "couzo:n532.cert+lp"
+},
+"533": {
+"side": 23.58378219105542,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"534": {
+"side": 23.606601717798213,
+"source": "gobel-square:a=11,b=15+L1"
+},
+"535": {
+"side": 23.65685424949704,
+"source": "couzo:n490.cert+L1"
+},
+"536": {
+"side": 23.656854249520762,
+"source": "couzo:n536.cert"
+},
+"537": {
+"side": 23.69238815766512,
+"source": "couzo:n537.cert+lp"
+},
+"538": {
+"side": 23.707106781186546,
+"source": "gobel-strip:a=21+L1"
+},
+"539": {
+"side": 23.736669673810752,
+"source": "couzo:n539.cert"
+},
+"540": {
+"side": 23.756097562789254,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"541": {
+"side": 23.778174594199367,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"542": {
+"side": 23.791504661084204,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"543": {
+"side": 23.80247228205867,
+"source": "couzo:n543.cert+lp"
+},
+"544": {
+"side": 23.824484936222284,
+"source": "couzo:n544.cert+lp"
+},
+"545": {
+"side": 23.839425510328915,
+"source": "couzo:n545.cert+lp"
+},
+"546": {
+"side": 23.861545382736104,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"547": {
+"side": 23.876113110738526,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"548": {
+"side": 23.888388276404726,
+"source": "couzo:n548.cert"
+},
+"549": {
+"side": 23.90861331173567,
+"source": "couzo:n549.cert+lp"
+},
+"550": {
+"side": 23.913368338052706,
+"source": "couzo:n550.cert+lp"
+},
+"551": {
+"side": 23.934569915307158,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"552": {
+"side": 23.946652263779427,
+"source": "couzo:n552.cert"
+},
+"553": {
+"side": 23.969774257084442,
+"source": "couzo:n553.cert+lp"
+},
+"554": {
+"side": 23.979866339465744,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"555": {
+"side": 23.989971414306382,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv"
+},
+"556": {
+"side": 24.0,
+"source": "grid"
+},
+"557": {
+"side": 24.0,
+"source": "grid"
+},
+"558": {
+"side": 24.0,
+"source": "grid"
+},
+"559": {
+"side": 24.0,
+"source": "grid"
+},
+"560": {
+"side": 24.0,
+"source": "grid"
+},
+"561": {
+"side": 24.0,
+"source": "grid"
+},
+"562": {
+"side": 24.0,
+"source": "grid"
+},
+"563": {
+"side": 24.0,
+"source": "grid"
+},
+"564": {
+"side": 24.0,
+"source": "grid"
+},
+"565": {
+"side": 24.0,
+"source": "grid"
+},
+"566": {
+"side": 24.0,
+"source": "grid"
+},
+"567": {
+"side": 24.0,
+"source": "grid"
+},
+"568": {
+"side": 24.0,
+"source": "grid"
+},
+"569": {
+"side": 24.0,
+"source": "grid"
+},
+"570": {
+"side": 24.0,
+"source": "grid"
+},
+"571": {
+"side": 24.0,
+"source": "grid"
+},
+"572": {
+"side": 24.0,
+"source": "grid"
+},
+"573": {
+"side": 24.0,
+"source": "grid"
+},
+"574": {
+"side": 24.0,
+"source": "grid"
+},
+"575": {
+"side": 24.0,
+"source": "grid"
+},
+"576": {
+"side": 24.0,
+"source": "grid"
+},
+"577": {
+"side": 24.535533905932738,
+"source": "couzo:n101.cert+L14"
+},
+"578": {
+"side": 24.535533905932738,
+"source": "couzo:n291.cert+L7"
+},
+"579": {
+"side": 24.563448003076463,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"580": {
+"side": 24.58378219106542,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"581": {
+"side": 24.606601717798213,
+"source": "gobel-square:a=11,b=15+L2"
+},
+"582": {
+"side": 24.646771924492025,
+"source": "couzo:n582.cert"
+},
+"583": {
+"side": 24.656854249506964,
+"source": "couzo:n583.cert"
+},
+"584": {
+"side": 24.677669529668844,
+"source": "couzo:n584.cert"
+},
+"585": {
+"side": 24.707106781186546,
+"source": "gobel-strip:a=21+L2"
+},
+"586": {
+"side": 24.707106781186546,
+"source": "gobel-strip:a=23"
+},
+"587": {
+"side": 24.756097560990252,
+"source": "couzo:n587.cert"
+},
+"588": {
+"side": 24.769398007393097,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"589": {
+"side": 24.778174593075807,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"590": {
+"side": 24.80243896454511,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"591": {
+"side": 24.81959056029465,
+"source": "couzo:n591.cert"
+},
+"592": {
+"side": 24.824728378490427,
+"source": "couzo:n592.cert+lp"
+},
+"593": {
+"side": 24.846735320077066,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"594": {
+"side": 24.862615557020607,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"595": {
+"side": 24.87611311094178,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"596": {
+"side": 24.88819738513421,
+"source": "couzo:n596.cert+lp"
+},
+"597": {
+"side": 24.90115056280097,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"598": {
+"side": 24.91056820242439,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"599": {
+"side": 24.932594869325918,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"600": {
+"side": 24.94555622385876,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"601": {
+"side": 24.958444750534866,
+"source": "couzo:n601.cert+lp"
+},
+"602": {
+"side": 24.978013150562063,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"603": {
+"side": 24.990355569378096,
+"source": "couzo:n603.cert"
+},
+"604": {
+"side": 24.996827809423735,
+"source": "couzo:n604.cert+lp"
+},
+"605": {
+"side": 25.0,
+"source": "grid"
+},
+"606": {
+"side": 25.0,
+"source": "grid"
+},
+"607": {
+"side": 25.0,
+"source": "grid"
+},
+"608": {
+"side": 25.0,
+"source": "grid"
+},
+"609": {
+"side": 25.0,
+"source": "grid"
+},
+"610": {
+"side": 25.0,
+"source": "grid"
+},
+"611": {
+"side": 25.0,
+"source": "grid"
+},
+"612": {
+"side": 25.0,
+"source": "grid"
+},
+"613": {
+"side": 25.0,
+"source": "grid"
+},
+"614": {
+"side": 25.0,
+"source": "grid"
+},
+"615": {
+"side": 25.0,
+"source": "grid"
+},
+"616": {
+"side": 25.0,
+"source": "grid"
+},
+"617": {
+"side": 25.0,
+"source": "grid"
+},
+"618": {
+"side": 25.0,
+"source": "grid"
+},
+"619": {
+"side": 25.0,
+"source": "grid"
+},
+"620": {
+"side": 25.0,
+"source": "grid"
+},
+"621": {
+"side": 25.0,
+"source": "grid"
+},
+"622": {
+"side": 25.0,
+"source": "grid"
+},
+"623": {
+"side": 25.0,
+"source": "grid"
+},
+"624": {
+"side": 25.0,
+"source": "grid"
+},
+"625": {
+"side": 25.0,
+"source": "grid"
+},
+"626": {
+"side": 25.52081528019583,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"627": {
+"side": 25.535533905932738,
+"source": "couzo:n291.cert+L8"
+},
+"628": {
+"side": 25.535533906914253,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"629": {
+"side": 25.58378219107542,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"630": {
+"side": 25.604601475736224,
+"source": "couzo:n630.cert"
+},
+"631": {
+"side": 25.627416997974812,
+"source": "couzo:n631.cert"
+},
+"632": {
+"side": 25.656854249506964,
+"source": "couzo:n583.cert+L1"
+},
+"633": {
+"side": 25.656854251928806,
+"source": "couzo:n633.cert+lp"
+},
+"634": {
+"side": 25.707106781186546,
+"source": "gobel-strip:a=21+L3"
+},
+"635": {
+"side": 25.707106781186546,
+"source": "gobel-strip:a=23+L1"
+},
+"636": {
+"side": 25.727922061357855,
+"source": "gobel-square:a=12,b=18"
+},
+"637": {
+"side": 25.75752201333656,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"638": {
+"side": 25.776977978900653,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"639": {
+"side": 25.781181339433004,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"640": {
+"side": 25.802472282258442,
+"source": "couzo:n640.cert+lp"
+},
+"641": {
+"side": 25.81961532980826,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv+lp"
+},
+"642": {
+"side": 25.833072972403397,
+"source": "couzo:n642.cert"
+},
+"643": {
+"side": 25.85166673196927,
+"source": "couzo:n643.cert"
+},
+"644": {
+"side": 25.861513729925424,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"645": {
+"side": 25.876113111025518,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"646": {
+"side": 25.892014038159278,
+"source": "couzo:n646.cert"
+},
+"647": {
+"side": 25.899276594080995,
+"source": "couzo:n647.cert"
+},
+"648": {
+"side": 25.908832791930152,
+"source": "couzo:n648.cert+lp"
+},
+"649": {
+"side": 25.92483540882294,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"650": {
+"side": 25.946414023668524,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"651": {
+"side": 25.95866836276622,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"652": {
+"side": 25.97663614069386,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv"
+},
+"653": {
+"side": 25.989201310435554,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"654": {
+"side": 25.994801642472776,
+"source": "couzo:n654.cert"
+},
+"655": {
+"side": 26.0,
+"source": "grid"
+},
+"656": {
+"side": 26.0,
+"source": "grid"
+},
+"657": {
+"side": 26.0,
+"source": "grid"
+},
+"658": {
+"side": 26.0,
+"source": "grid"
+},
+"659": {
+"side": 26.0,
+"source": "grid"
+},
+"660": {
+"side": 26.0,
+"source": "grid"
+},
+"661": {
+"side": 26.0,
+"source": "grid"
+},
+"662": {
+"side": 26.0,
+"source": "grid"
+},
+"663": {
+"side": 26.0,
+"source": "grid"
+},
+"664": {
+"side": 26.0,
+"source": "grid"
+},
+"665": {
+"side": 26.0,
+"source": "grid"
+},
+"666": {
+"side": 26.0,
+"source": "grid"
+},
+"667": {
+"side": 26.0,
+"source": "grid"
+},
+"668": {
+"side": 26.0,
+"source": "grid"
+},
+"669": {
+"side": 26.0,
+"source": "grid"
+},
+"670": {
+"side": 26.0,
+"source": "grid"
+},
+"671": {
+"side": 26.0,
+"source": "grid"
+},
+"672": {
+"side": 26.0,
+"source": "grid"
+},
+"673": {
+"side": 26.0,
+"source": "grid"
+},
+"674": {
+"side": 26.0,
+"source": "grid"
+},
+"675": {
+"side": 26.0,
+"source": "grid"
+},
+"676": {
+"side": 26.0,
+"source": "grid"
+},
+"677": {
+"side": 26.520815280196828,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"678": {
+"side": 26.535533905932738,
+"source": "couzo:n291.cert+L9"
+},
+"679": {
+"side": 26.53553390692425,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"680": {
+"side": 26.571428571435963,
+"source": "couzo:n680.cert"
+},
+"681": {
+"side": 26.591378145503207,
+"source": "couzo:n681.cert"
+},
+"682": {
+"side": 26.62127550132057,
+"source": "couzo:n682.cert"
+},
+"683": {
+"side": 26.656854249500938,
+"source": "couzo:n684.cert"
+},
+"684": {
+"side": 26.656854249500945,
+"source": "couzo:n684.cert"
+},
+"685": {
+"side": 26.692388157965098,
+"source": "couzo:n685.cert+lp"
+},
+"686": {
+"side": 26.707106781186546,
+"source": "gobel-strip:a=23+L2"
+},
+"687": {
+"side": 26.727922061357855,
+"source": "gobel-square:a=12,b=18+L1"
+},
+"688": {
+"side": 26.727922061357855,
+"source": "gobel-square:a=13,b=18"
+},
+"689": {
+"side": 26.762236166917077,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"690": {
+"side": 26.777335286789214,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"691": {
+"side": 26.78723105354444,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"692": {
+"side": 26.80251266501029,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv"
+},
+"693": {
+"side": 26.817325610302866,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"694": {
+"side": 26.831812064398452,
+"source": "couzo:n694.cert"
+},
+"695": {
+"side": 26.851666731969875,
+"source": "couzo:n695.cert"
+},
+"696": {
+"side": 26.862373040446364,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"697": {
+"side": 26.87611311111899,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"698": {
+"side": 26.88911303510105,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"699": {
+"side": 26.89995675909735,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"700": {
+"side": 26.90809268220928,
+"source": "couzo:n700.cert+lp"
+},
+"701": {
+"side": 26.91913985168329,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"702": {
+"side": 26.940996347153046,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"703": {
+"side": 26.95883608247846,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"704": {
+"side": 26.96523023561751,
+"source": "couzo:n704.cert+lp"
+},
+"705": {
+"side": 26.985242909858957,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"706": {
+"side": 26.993966184112207,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"707": {
+"side": 27.0,
+"source": "grid"
+},
+"708": {
+"side": 27.0,
+"source": "grid"
+},
+"709": {
+"side": 27.0,
+"source": "grid"
+},
+"710": {
+"side": 27.0,
+"source": "grid"
+},
+"711": {
+"side": 27.0,
+"source": "grid"
+},
+"712": {
+"side": 27.0,
+"source": "grid"
+},
+"713": {
+"side": 27.0,
+"source": "grid"
+},
+"714": {
+"side": 27.0,
+"source": "grid"
+},
+"715": {
+"side": 27.0,
+"source": "grid"
+},
+"716": {
+"side": 27.0,
+"source": "grid"
+},
+"717": {
+"side": 27.0,
+"source": "grid"
+},
+"718": {
+"side": 27.0,
+"source": "grid"
+},
+"719": {
+"side": 27.0,
+"source": "grid"
+},
+"720": {
+"side": 27.0,
+"source": "grid"
+},
+"721": {
+"side": 27.0,
+"source": "grid"
+},
+"722": {
+"side": 27.0,
+"source": "grid"
+},
+"723": {
+"side": 27.0,
+"source": "grid"
+},
+"724": {
+"side": 27.0,
+"source": "grid"
+},
+"725": {
+"side": 27.0,
+"source": "grid"
+},
+"726": {
+"side": 27.0,
+"source": "grid"
+},
+"727": {
+"side": 27.0,
+"source": "grid"
+},
+"728": {
+"side": 27.0,
+"source": "grid"
+},
+"729": {
+"side": 27.0,
+"source": "grid"
+},
+"730": {
+"side": 27.520815280197827,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"731": {
+"side": 27.535533905932738,
+"source": "couzo:n291.cert+L10"
+},
+"732": {
+"side": 27.53553390693425,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"733": {
+"side": 27.571428571435963,
+"source": "couzo:n680.cert+L1"
+},
+"734": {
+"side": 27.591378145503207,
+"source": "couzo:n681.cert+L1"
+},
+"735": {
+"side": 27.61757217412525,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"736": {
+"side": 27.6525432638329,
+"source": "couzo:n736.cert"
+},
+"737": {
+"side": 27.656854249500945,
+"source": "couzo:n684.cert+L1"
+},
+"738": {
+"side": 27.691283624211493,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"739": {
+"side": 27.691450195503776,
+"source": "couzo:n739.cert+lp"
+},
+"740": {
+"side": 27.707106781186546,
+"source": "gobel-strip:a=26"
+},
+"741": {
+"side": 27.727922061357855,
+"source": "gobel-square:a=13,b=18+L1"
+},
+"742": {
+"side": 27.76203378436177,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"743": {
+"side": 27.768716382478623,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv+lp"
+},
+"744": {
+"side": 27.786102731175454,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"745": {
+"side": 27.796208455491566,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"746": {
+"side": 27.80247228245809,
+"source": "couzo:n746.cert+lp"
+},
+"747": {
+"side": 27.824728378790255,
+"source": "couzo:n747.cert+lp"
+},
+"748": {
+"side": 27.83514415383869,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"749": {
+"side": 27.846045890571858,
+"source": "couzo:n749.cert"
+},
+"750": {
+"side": 27.86336431060559,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"751": {
+"side": 27.876113111277334,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"752": {
+"side": 27.88920745733066,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"753": {
+"side": 27.90108112091969,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"754": {
+"side": 27.908215179679353,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"755": {
+"side": 27.919139850768175,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"756": {
+"side": 27.9259179747784,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"757": {
+"side": 27.948716578682184,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"758": {
+"side": 27.96578837759141,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"759": {
+"side": 27.976904856897036,
+"source": "couzo:n759.cert+lp"
+},
+"760": {
+"side": 27.992923233305163,
+"source": "couzo:n760.cert"
+},
+"761": {
+"side": 27.998783744371792,
+"source": "couzo:n761.cert+lp"
+},
+"762": {
+"side": 28.0,
+"source": "grid"
+},
+"763": {
+"side": 28.0,
+"source": "grid"
+},
+"764": {
+"side": 28.0,
+"source": "grid"
+},
+"765": {
+"side": 28.0,
+"source": "grid"
+},
+"766": {
+"side": 28.0,
+"source": "grid"
+},
+"767": {
+"side": 28.0,
+"source": "grid"
+},
+"768": {
+"side": 28.0,
+"source": "grid"
+},
+"769": {
+"side": 28.0,
+"source": "grid"
+},
+"770": {
+"side": 28.0,
+"source": "grid"
+},
+"771": {
+"side": 28.0,
+"source": "grid"
+},
+"772": {
+"side": 28.0,
+"source": "grid"
+},
+"773": {
+"side": 28.0,
+"source": "grid"
+},
+"774": {
+"side": 28.0,
+"source": "grid"
+},
+"775": {
+"side": 28.0,
+"source": "grid"
+},
+"776": {
+"side": 28.0,
+"source": "grid"
+},
+"777": {
+"side": 28.0,
+"source": "grid"
+},
+"778": {
+"side": 28.0,
+"source": "grid"
+},
+"779": {
+"side": 28.0,
+"source": "grid"
+},
+"780": {
+"side": 28.0,
+"source": "grid"
+},
+"781": {
+"side": 28.0,
+"source": "grid"
+},
+"782": {
+"side": 28.0,
+"source": "grid"
+},
+"783": {
+"side": 28.0,
+"source": "grid"
+},
+"784": {
+"side": 28.0,
+"source": "grid"
+},
+"785": {
+"side": 28.52081528019883,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"786": {
+"side": 28.535533905932738,
+"source": "couzo:n291.cert+L11"
+},
+"787": {
+"side": 28.53553390694425,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"788": {
+"side": 28.571428571435963,
+"source": "couzo:n680.cert+L2"
+},
+"789": {
+"side": 28.591378145503207,
+"source": "couzo:n681.cert+L2"
+},
+"790": {
+"side": 28.61436893961678,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"791": {
+"side": 28.642135623791813,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"792": {
+"side": 28.656854249498373,
+"source": "couzo:n792.cert"
+},
+"793": {
+"side": 28.67877987808162,
+"source": "couzo:n793.cert+lp"
+},
+"794": {
+"side": 28.69144897302096,
+"source": "couzo:n794.cert+lp"
+},
+"795": {
+"side": 28.707106781186546,
+"source": "gobel-strip:a=26+L1"
+},
+"796": {
+"side": 28.727922061357855,
+"source": "gobel-square:a=13,b=18+L2"
+},
+"797": {
+"side": 28.75609756098492,
+"source": "couzo:n797.cert"
+},
+"798": {
+"side": 28.762867381535457,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"799": {
+"side": 28.77562932538116,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"800": {
+"side": 28.787007168043868,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"801": {
+"side": 28.7962086820069,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"802": {
+"side": 28.807344216150312,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv+lp"
+},
+"803": {
+"side": 28.827585222353328,
+"source": "couzo:n803.cert"
+},
+"804": {
+"side": 28.831667950773234,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"805": {
+"side": 28.85166673471802,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv+lp"
+},
+"806": {
+"side": 28.863733504352712,
+"source": "couzo:n806.cert+lp"
+},
+"807": {
+"side": 28.87561155652785,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"808": {
+"side": 28.883652672989076,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"809": {
+"side": 28.898298402892706,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"810": {
+"side": 28.91045103644146,
+"source": "couzo:n810.cert+lp"
+},
+"811": {
+"side": 28.91913985086827,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"812": {
+"side": 28.927238537969878,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"813": {
+"side": 28.93829853229127,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"814": {
+"side": 28.961440808823937,
+"source": "couzo:n814.cert"
+},
+"815": {
+"side": 28.979619058775995,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"816": {
+"side": 28.989260147125446,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"817": {
+"side": 28.99687592303508,
+"source": "couzo:n817.cert+lp"
+},
+"818": {
+"side": 29.0,
+"source": "grid"
+},
+"819": {
+"side": 29.0,
+"source": "grid"
+},
+"820": {
+"side": 29.0,
+"source": "grid"
+},
+"821": {
+"side": 29.0,
+"source": "grid"
+},
+"822": {
+"side": 29.0,
+"source": "grid"
+},
+"823": {
+"side": 29.0,
+"source": "grid"
+},
+"824": {
+"side": 29.0,
+"source": "grid"
+},
+"825": {
+"side": 29.0,
+"source": "grid"
+},
+"826": {
+"side": 29.0,
+"source": "grid"
+},
+"827": {
+"side": 29.0,
+"source": "grid"
+},
+"828": {
+"side": 29.0,
+"source": "grid"
+},
+"829": {
+"side": 29.0,
+"source": "grid"
+},
+"830": {
+"side": 29.0,
+"source": "grid"
+},
+"831": {
+"side": 29.0,
+"source": "grid"
+},
+"832": {
+"side": 29.0,
+"source": "grid"
+},
+"833": {
+"side": 29.0,
+"source": "grid"
+},
+"834": {
+"side": 29.0,
+"source": "grid"
+},
+"835": {
+"side": 29.0,
+"source": "grid"
+},
+"836": {
+"side": 29.0,
+"source": "grid"
+},
+"837": {
+"side": 29.0,
+"source": "grid"
+},
+"838": {
+"side": 29.0,
+"source": "grid"
+},
+"839": {
+"side": 29.0,
+"source": "grid"
+},
+"840": {
+"side": 29.0,
+"source": "grid"
+},
+"841": {
+"side": 29.0,
+"source": "grid"
+},
+"842": {
+"side": 29.520815280200786,
+"source": "couzo:n626.cert+L4"
+},
+"843": {
+"side": 29.535533905932738,
+"source": "couzo:n291.cert+L12"
+},
+"844": {
+"side": 29.535533906954253,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"845": {
+"side": 29.571428571435963,
+"source": "couzo:n680.cert+L3"
+},
+"846": {
+"side": 29.583782190723667,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"847": {
+"side": 29.606601717804423,
+"source": "couzo:n847.cert"
+},
+"848": {
+"side": 29.642135623759593,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"849": {
+"side": 29.642135623759593,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"850": {
+"side": 29.6568542494986,
+"source": "couzo:n850.cert"
+},
+"851": {
+"side": 29.691448975559638,
+"source": "couzo:n851.cert"
+},
+"852": {
+"side": 29.707106781186546,
+"source": "gobel-strip:a=26+L2"
+},
+"853": {
+"side": 29.707106781186546,
+"source": "gobel-strip:a=28"
+},
+"854": {
+"side": 29.727922064205472,
+"source": "couzo:n854.cert+lp"
+},
+"855": {
+"side": 29.748737341546892,
+"source": "couzo:n855.cert"
+},
+"856": {
+"side": 29.76871638267864,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv+lp"
+},
+"857": {
+"side": 29.775887827550942,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"858": {
+"side": 29.7894000363261,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"859": {
+"side": 29.79892391298228,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"860": {
+"side": 29.809801360235255,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"861": {
+"side": 29.828155833160825,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv+lp"
+},
+"862": {
+"side": 29.842203369419785,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"863": {
+"side": 29.847340061820844,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv"
+},
+"864": {
+"side": 29.860911039162932,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"865": {
+"side": 29.87561155875982,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"866": {
+"side": 29.883495650991545,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"867": {
+"side": 29.889772730933394,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"868": {
+"side": 29.908292315957805,
+"source": "couzo:n868.cert"
+},
+"869": {
+"side": 29.9131758307288,
+"source": "couzo:n869.cert+lp"
+},
+"870": {
+"side": 29.92723853806981,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"871": {
+"side": 29.93829834376247,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"872": {
+"side": 29.958308113625367,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"873": {
+"side": 29.973208186623,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"874": {
+"side": 29.98773722188516,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"875": {
+"side": 29.996827809829348,
+"source": "couzo:n875.cert+lp"
+},
+"876": {
+"side": 30.0,
+"source": "grid"
+},
+"877": {
+"side": 30.0,
+"source": "grid"
+},
+"878": {
+"side": 30.0,
+"source": "grid"
+},
+"879": {
+"side": 30.0,
+"source": "grid"
+},
+"880": {
+"side": 30.0,
+"source": "grid"
+},
+"881": {
+"side": 30.0,
+"source": "grid"
+},
+"882": {
+"side": 30.0,
+"source": "grid"
+},
+"883": {
+"side": 30.0,
+"source": "grid"
+},
+"884": {
+"side": 30.0,
+"source": "grid"
+},
+"885": {
+"side": 30.0,
+"source": "grid"
+},
+"886": {
+"side": 30.0,
+"source": "grid"
+},
+"887": {
+"side": 30.0,
+"source": "grid"
+},
+"888": {
+"side": 30.0,
+"source": "grid"
+},
+"889": {
+"side": 30.0,
+"source": "grid"
+},
+"890": {
+"side": 30.0,
+"source": "grid"
+},
+"891": {
+"side": 30.0,
+"source": "grid"
+},
+"892": {
+"side": 30.0,
+"source": "grid"
+},
+"893": {
+"side": 30.0,
+"source": "grid"
+},
+"894": {
+"side": 30.0,
+"source": "grid"
+},
+"895": {
+"side": 30.0,
+"source": "grid"
+},
+"896": {
+"side": 30.0,
+"source": "grid"
+},
+"897": {
+"side": 30.0,
+"source": "grid"
+},
+"898": {
+"side": 30.0,
+"source": "grid"
+},
+"899": {
+"side": 30.0,
+"source": "grid"
+},
+"900": {
+"side": 30.0,
+"source": "grid"
+},
+"901": {
+"side": 30.520815280200786,
+"source": "couzo:n626.cert+L5"
+},
+"902": {
+"side": 30.535533905932738,
+"source": "couzo:n291.cert+L13"
+},
+"903": {
+"side": 30.53553390696425,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"904": {
+"side": 30.56362800822444,
+"source": "couzo:n904.cert+lp"
+},
+"905": {
+"side": 30.583782190733668,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"906": {
+"side": 30.591378146301423,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"907": {
+"side": 30.619088194050416,
+"source": "couzo:n907.cert+lp"
+},
+"908": {
+"side": 30.642135623760595,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"909": {
+"side": 30.6568542494986,
+"source": "couzo:n850.cert+L1"
+},
+"910": {
+"side": 30.691448972632063,
+"source": "couzo:n851.cert+L1+lp"
+},
+"911": {
+"side": 30.707106781186546,
+"source": "gobel-strip:a=26+L3"
+},
+"912": {
+"side": 30.707106781186546,
+"source": "gobel-strip:a=28+L1"
+},
+"913": {
+"side": 30.727922064307464,
+"source": "couzo:n854.cert+L1+lp"
+},
+"914": {
+"side": 30.746670724581506,
+"source": "couzo:n914.cert"
+},
+"915": {
+"side": 30.762236167546796,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"916": {
+"side": 30.76313842701978,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"917": {
+"side": 30.78620432068088,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"918": {
+"side": 30.787725395326543,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"919": {
+"side": 30.802699858562736,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"920": {
+"side": 30.810111219685563,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"921": {
+"side": 30.83122176316359,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"922": {
+"side": 30.838318818830196,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"923": {
+"side": 30.855779483492135,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"924": {
+"side": 30.86380945175871,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"925": {
+"side": 30.875611558859845,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"926": {
+"side": 30.88375085837405,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"927": {
+"side": 30.89555119105499,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"928": {
+"side": 30.908911079217845,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"929": {
+"side": 30.917580218746323,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"930": {
+"side": 30.92347793144033,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"931": {
+"side": 30.93829853249239,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"932": {
+"side": 30.960209722011353,
+"source": "couzo:n932.cert"
+},
+"933": {
+"side": 30.97225870244033,
+"source": "couzo:n933.cert"
+},
+"934": {
+"side": 30.983075487612396,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"935": {
+"side": 30.994174058118517,
+"source": "couzo:n935.cert"
+},
+"936": {
+"side": 31.0,
+"source": "grid"
+},
+"937": {
+"side": 31.0,
+"source": "grid"
+},
+"938": {
+"side": 31.0,
+"source": "grid"
+},
+"939": {
+"side": 31.0,
+"source": "grid"
+},
+"940": {
+"side": 31.0,
+"source": "grid"
+},
+"941": {
+"side": 31.0,
+"source": "grid"
+},
+"942": {
+"side": 31.0,
+"source": "grid"
+},
+"943": {
+"side": 31.0,
+"source": "grid"
+},
+"944": {
+"side": 31.0,
+"source": "grid"
+},
+"945": {
+"side": 31.0,
+"source": "grid"
+},
+"946": {
+"side": 31.0,
+"source": "grid"
+},
+"947": {
+"side": 31.0,
+"source": "grid"
+},
+"948": {
+"side": 31.0,
+"source": "grid"
+},
+"949": {
+"side": 31.0,
+"source": "grid"
+},
+"950": {
+"side": 31.0,
+"source": "grid"
+},
+"951": {
+"side": 31.0,
+"source": "grid"
+},
+"952": {
+"side": 31.0,
+"source": "grid"
+},
+"953": {
+"side": 31.0,
+"source": "grid"
+},
+"954": {
+"side": 31.0,
+"source": "grid"
+},
+"955": {
+"side": 31.0,
+"source": "grid"
+},
+"956": {
+"side": 31.0,
+"source": "grid"
+},
+"957": {
+"side": 31.0,
+"source": "grid"
+},
+"958": {
+"side": 31.0,
+"source": "grid"
+},
+"959": {
+"side": 31.0,
+"source": "grid"
+},
+"960": {
+"side": 31.0,
+"source": "grid"
+},
+"961": {
+"side": 31.0,
+"source": "grid"
+},
+"962": {
+"side": 31.520815280200786,
+"source": "couzo:n626.cert+L6"
+},
+"963": {
+"side": 31.535533905932738,
+"source": "couzo:n291.cert+L14"
+},
+"964": {
+"side": 31.53553390697425,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"965": {
+"side": 31.56362565354789,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"966": {
+"side": 31.583782190743666,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"967": {
+"side": 31.591378146311424,
+"source": "kaggle-nb:aqibrazadev/squares-in-squares-top-lb-blending-visualization:submission.csv"
+},
+"968": {
+"side": 31.619088194940286,
+"source": "couzo:n968.cert+lp"
+},
+"969": {
+"side": 31.64213562376159,
+"source": "kaggle-nb:janiogomesribeiro/notebook87513fb5d4:submission.csv"
+},
+"970": {
+"side": 31.6568542494986,
+"source": "couzo:n850.cert+L2"
+},
+"971": {
+"side": 31.678779878381647,
+"source": "couzo:n971.cert+lp"
+},
+"972": {
+"side": 31.69238815544404,
+"source": "couzo:n972.cert"
+},
+"973": {
+"side": 31.707106781186546,
+"source": "gobel-strip:a=28+L2"
+},
+"974": {
+"side": 31.707106781186546,
+"source": "gobel-strip:a=30"
+},
+"975": {
+"side": 31.72792206440142,
+"source": "couzo:n975.cert+lp"
+},
+"976": {
+"side": 31.747519554836973,
+"source": "couzo:n976.cert"
+},
+"977": {
+"side": 31.765988959202506,
+"source": "couzo:n977.cert+lp"
+},
+"978": {
+"side": 31.779516944582504,
+"source": "couzo:n978.cert"
+},
+"979": {
+"side": 31.786204320854175,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"980": {
+"side": 31.795781578235772,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"981": {
+"side": 31.797872210238783,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"982": {
+"side": 31.81853238714119,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"983": {
+"side": 31.821576221956466,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"984": {
+"side": 31.839808273818704,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"985": {
+"side": 31.848263436443435,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"986": {
+"side": 31.86336431100559,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"987": {
+"side": 31.875611558960124,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"988": {
+"side": 31.883750853963022,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"989": {
+"side": 31.89555119329338,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"990": {
+"side": 31.910152951674537,
+"source": "couzo:n990.cert+lp"
+},
+"991": {
+"side": 31.917071475198377,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"992": {
+"side": 31.92723853826996,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"993": {
+"side": 31.93411334051635,
+"source": "kaggle-nb:cdeotte/squares-in-squares-ftmc-milp-refill-22-311:submission.csv+lp"
+},
+"994": {
+"side": 31.960209725066896,
+"source": "couzo:n994.cert+lp"
+},
+"995": {
+"side": 31.967892522874216,
+"source": "couzo:n995.cert"
+},
+"996": {
+"side": 31.987231180316282,
+"source": "couzo:n996.cert+lp"
+},
+"997": {
+"side": 31.995517487692872,
+"source": "couzo:n997.cert+lp"
+},
+"998": {
+"side": 31.9968759202589,
+"source": "couzo:n998.cert"
+},
+"999": {
+"side": 32.0,
+"source": "grid"
+},
+"1000": {
+"side": 32.0,
+"source": "grid"
+}
+}
